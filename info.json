@@ -9,7 +9,9 @@
       "size": 451,
       "difficulty": 5,
       "category": "example",
-      "version": 1
+      "version": 1,
+      "sha2_hash": "12ab2312dc"
+      "url": "http://ololo.github.com/CrashCourse.zip"
     },
     {
       "id": "demo_course_02",
@@ -19,7 +21,9 @@
       "size": 451,
       "difficulty": 3,
       "category": "example",
-      "version": 1
+      "version": 1,
+      "sha2_hash": "12ab2312dc"
+      "url": "http://ololo.github.com/CrashCourse.zip"
     }
   ]
 }
