@@ -10,7 +10,7 @@
       "difficulty": 5,
       "category": "example",
       "version": 1,
-      "sha2_hash": "12ab2312dc"
+      "sha2_hash": "12ab2312dc",
       "url": "http://ololo.github.com/CrashCourse.zip"
     },
     {
@@ -22,7 +22,7 @@
       "difficulty": 3,
       "category": "example",
       "version": 1,
-      "sha2_hash": "12ab2312dc"
+      "sha2_hash": "12ab2312dc",
       "url": "http://ololo.github.com/CrashCourse.zip"
     }
   ]
