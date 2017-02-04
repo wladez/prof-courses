@@ -1,5 +1,5 @@
-"id": "StudyIntonation",
-	"title": "",
+{"id": "StudyIntonation",
+	"title": "Study Intonation course is for everyday discourse skills mastering",
 	"description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
 	"logo": "uk_flag.png",
 	"difficulty": 1,
@@ -59,7 +59,7 @@
 			"sound": "02Invitations/l2t3.mp3",
 			"pitch": "02Invitations/l2t3.pitch",
 			"textMarkup": "02Invitations/l2t3.text"
-		}
+		},
 		{
 			"id": "00024",
 			"instructions": "Proposal 3 (\"A why don't...\" proposal)",
@@ -67,7 +67,7 @@
 			"sound": "02Invitations/l2t4.mp3",
 			"pitch": "02Invitations/l2t4.pitch",
 			"textMarkup": "02Invitations/l2t4.text"
-		}
+		},
 		{
 			"id": "00025",
 			"instructions": "Proposal 4 (\"A how about...\" proposal)",
@@ -75,7 +75,7 @@
 			"sound": "02Invitations/l2t5.mp3",
 			"pitch": "02Invitations/l2t5.pitch",
 			"textMarkup": "02Invitations/l2t5.text"
-		}	
+		},	
 		{
 			"id": "00026",
 			"instructions": "Accepting the invitation 1",
@@ -83,49 +83,49 @@
 			"sound": "02Invitations/l2t6.mp3",
 			"pitch": "02Invitations/l2t6.pitch",
 			"textMarkup": "02Invitations/l2t6.text"
-		}{
+		},{
 			"id": "00027",
 			"instructions": "Accepting the invitation 2",
 			"text": "That would be very nice!",
 			"sound": "02Invitations/l2t7.mp3",
 			"pitch": "02Invitations/l2t7.pitch",
 			"textMarkup": "02Invitations/l2t7.text"
-		}{
+		},{
 			"id": "00028",
 			"instructions": "Accepting the invitation 3",
 			"text": "Thank you for inviting me!",
 			"sound": "02Invitations/l2t8.mp3",
 			"pitch": "02Invitations/l2t8.pitch",
 			"textMarkup": "02Invitations/l2t8.text"
-		}{
+		},{
 			"id": "00029",
 			"instructions": "Accepting the invitation 4",
 			"text": "I look for it!",
 			"sound": "02Invitations/l2t9.mp3",
 			"pitch": "02Invitations/l2t9.pitch",
 			"textMarkup": "02Invitations/l2t9.text"
-		}{
+		},{
 			"id": "00030",
 			"instructions": "Accepting the invitation 5",
 			"text": "Thank you! That would be a pleasure!",
 			"sound": "02Invitations/l2t10.mp3",
 			"pitch": "02Invitations/l2t10.pitch",
 			"textMarkup": "02Invitations/l2t10.text"
-		}{
+		},{
 			"id": "00031",
 			"instructions": "Accepting the invitation 6",
 			"text": "That's very kind of you! I'd love to come!",
 			"sound": "02Invitations/l2t11.mp3",
 			"pitch": "02Invitations/l2t11.pitch",
 			"textMarkup": "02Invitations/l2t11.text"
-		}{
+		},{
 			"id": "00032",
 			"instructions": "Accepting the invitation 7",
 			"text": "Thanks! That sounds great!",
 			"sound": "02Invitations/l2t12.mp3",
 			"pitch": "02Invitations/l2t12.pitch",
 			"textMarkup": "02Invitations/l2t11.text"
-		}
+		},
 		{
 			"id": "00033",
 			"instructions": "Accepting the invitation 8",
@@ -133,7 +133,7 @@
 			"sound": "02Invitations/l2t13.mp3",
 			"pitch": "02Invitations/l2t13.pitch",
 			"textMarkup": "02Invitations/l2t13.text"
-		}
+		},
 		{
 			"id": "00034",
 			"instructions": "Declining the invitation 1",
@@ -141,7 +141,7 @@
 			"sound": "02Invitations/l2t14.mp3",
 			"pitch": "02Invitations/l2t14.pitch",
 			"textMarkup": "02Invitations/l2t14.text"
-		}{
+		},{
 			"id": "00035",
 			"instructions": "Declining the invitation 2",
 			"text": "Thanks! But I don't think I can make it then.",
@@ -149,5 +149,5 @@
 			"pitch": "02Invitations/l2t15.pitch",
 			"textMarkup": "02Invitations/l2t15.text"
 		}]
-	}, 
+	}]
 }
