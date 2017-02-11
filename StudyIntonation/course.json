@@ -320,138 +320,229 @@
 			"pitch": "03Emotions/l3t1.pitch",
 			"textMarkup": "03Emotions/l3t1.text"
 		}, {
-			"id": "00202",
+			"id": "00402",
 			"instructions": "??",
 			"text": "Oh, really?",
 			"sound": "03Emotions/l3t2.mp3",
 			"pitch": "03Emotions/l3t2.pitch",
 			"textMarkup": "03Emotions/l3t2.text"
 		}, {
-			"id": "00203",
+			"id": "00403",
 			"instructions": "??",
 			"text": "I thought it was all right.",
 			"sound": "03Emotions/l3t3.mp3",
 			"pitch": "03Emotions/l3t3.pitch",
 			"textMarkup": "03Emotions/l3t3.text"
 		}, {
-			"id": "00204",
+			"id": "00404",
 			"instructions": "??",
 			"text": "I thought they was quite a lot of stuff that was irrelevant too.",
 			"sound": "03Emotions/l3t4.mp3",
 			"pitch": "03Emotions/l3t4.pitch",
 			"textMarkup": "03Emotions/l3t4.text"
 		}, {
-			"id": "00205",
+			"id": "00405",
 			"instructions": "??",
 			"text": "That was useful!",
 			"sound": "03Emotions/l3t5.mp3",
 			"pitch": "03Emotions/l3t5.pitch",
 			"textMarkup": "03Emotions/l3t5.text"
 		}, {
-			"id": "00206",
+			"id": "00406",
 			"instructions": "??",
 			"text": "So, I came out feeling as though I wasted my time, to be honest.",
 			"sound": "03Emotions/l3t6.mp3",
 			"pitch": "03Emotions/l3t6.pitch",
 			"textMarkup": "03Emotions/l3t6.text"
 		}, {
-			"id": "00207",
+			"id": "00407",
 			"instructions": "??",
 			"text": "I am really impressed!",
 			"sound": "03Emotions/l3t7.mp3",
 			"pitch": "03Emotions/l3t7.pitch",
 			"textMarkup": "03Emotions/l3t7.text"
 		}, {
-			"id": "00208",
+			"id": "00408",
 			"instructions": "??",
 			"text": "It was fantastic, very inspirational, I've really enjoyed it!",
 			"sound": "03Emotions/l3t8.mp3",
 			"pitch": "03Emotions/l3t8.pitch",
 			"textMarkup": "03Emotions/l3t8.text"
 		}, {
-			"id": "00209",
+			"id": "00409",
 			"instructions": "??",
 			"text": "Oh, my! Such a wonderful thing!",
 			"sound": "03Emotions/l3t9.mp3",
 			"pitch": "03Emotions/l3t9.pitch",
 			"textMarkup": "03Emotions/l3t9.text"
 		}, {
-			"id": "00210",
+			"id": "00410",
 			"instructions": "??",
 			"text": "It's so nice, isn't it?",
 			"sound": "03Emotions/l3t10.mp3",
 			"pitch": "03Emotions/l3t10.pitch",
 			"textMarkup": "03Emotions/l3t10.text"
 		}, {
-			"id": "00211",
+			"id": "00411",
 			"instructions": "??",
 			"text": "Looks fantastic!",
 			"sound": "03Emotions/l3t11.mp3",
 			"pitch": "03Emotions/l3t11.pitch",
 			"textMarkup": "03Emotions/l3t11.text"
 		}, {
-			"id": "00212",
+			"id": "00412",
 			"instructions": "??",
 			"text": "Terrific! I love it!",
 			"sound": "03Emotions/l3t12.mp3",
 			"pitch": "03Emotions/l3t12.pitch",
 			"textMarkup": "03Emotions/l3t12.text"
 		}, {
-			"id": "00213",
+			"id": "00413",
 			"instructions": "??",
 			"text": "What a wonderful picture!",
 			"sound": "03Emotions/l3t13.mp3",
 			"pitch": "03Emotions/l3t13.pitch",
 			"textMarkup": "03Emotions/l3t13.text"
 		}, {
-			"id": "00214",
+			"id": "00414",
 			"instructions": "??",
 			"text": "Good job! Congratulations!",
 			"sound": "03Emotions/l3t14.mp3",
 			"pitch": "03Emotions/l3t14.pitch",
 			"textMarkup": "03Emotions/l3t14.text"
 		}, {
-			"id": "00215",
+			"id": "00415",
 			"instructions": "??",
 			"text": "You are terrific!",
 			"sound": "03Emotions/l3t15.mp3",
 			"pitch": "03Emotions/l3t15.pitch",
 			"textMarkup": "03Emotions/l3t15.text"
 		}, {
-			"id": "00216",
+			"id": "00416",
 			"instructions": "??",
 			"text": "Do you really thinks so? Thanks!",
 			"sound": "03Emotions/l3t16.mp3",
 			"pitch": "03Emotions/l3t16.pitch",
 			"textMarkup": "03Emotions/l3t16.text"
 		}, {
-			"id": "00217",
+			"id": "00417",
 			"instructions": "??",
 			"text": "I'm glad you liked it.",
 			"sound": "03Emotions/l3t17.mp3",
 			"pitch": "03Emotions/l3t17.pitch",
 			"textMarkup": "03Emotions/l3t17.text"
 		}, {
-			"id": "00218",
+			"id": "00418",
 			"instructions": "??",
 			"text": "How nice of you to say so!",
 			"sound": "03Emotions/l3t18.mp3",
 			"pitch": "03Emotions/l3t18.pitch",
 			"textMarkup": "03Emotions/l3t18.text"
 		}, {
-			"id": "00219",
+			"id": "00419",
 			"instructions": "??",
 			"text": "In fact, the credit should also go to my colleagues.",
 			"sound": "03Emotions/l3t19.mp3",
 			"pitch": "03Emotions/l3t19.pitch",
 			"textMarkup": "03Emotions/l3t19.text"
 		}, {
-			"id": "00220",
+			"id": "00420",
 			"instructions": "??",
 			"text": "It was nothing special, really.",
 			"sound": "03Emotions/l3t20.mp3",
 			"pitch": "03Emotions/l3t20.pitch",
 			"textMarkup": "03Emotions/l3t20.text"
+		}]
+	}, {
+		"id": "00600",
+		"title": "Conference",
+		"description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
+		"logo": "04Conference/u_k_flag.png",
+		"duration": 15,
+		"tasks": [{
+			"id": "00601",
+			"instructions": "??",
+			"text": "How's the conference going for you?",
+			"sound": "04Conference/l4t1.mp3",
+			"pitch": "04Conference/l4t1.pitch",
+			"textMarkup": "04Conference/l4t1.text"
+		}, {
+			"id": "00602",
+			"instructions": "??",
+			"text": "What's your area of expertise?",
+			"sound": "04Conference/l4t2.mp3",
+			"pitch": "04Conference/l4t2.pitch",
+			"textMarkup": "04Conference/l4t2.text"
+		}, {
+			"id": "00603",
+			"instructions": "??",
+			"text": "And I've got an abstract as well which you could have, if it helps.",
+			"sound": "04Conference/l4t3.mp3",
+			"pitch": "04Conference/l4t3.pitch",
+			"textMarkup": "04Conference/l4t3.text"
+		}, {
+			"id": "00604",
+			"instructions": "??",
+			"text": "I'll go for the first method.",
+			"sound": "04Conference/l4t4.mp3",
+			"pitch": "04Conference/l4t4.pitch",
+			"textMarkup": "04Conference/l4t4.text"
+		}, {
+			"id": "00605",
+			"instructions": "??",
+			"text": "My topic today is...",
+			"sound": "04Conference/l4t5.mp3",
+			"pitch": "04Conference/l4t5.pitch",
+			"textMarkup": "04Conference/l4t5.text"
+		}, {
+			"id": "00606",
+			"instructions": "??",
+			"text": "I think you were at my presentation yesterday, weren't you?",
+			"sound": "04Conference/l4t6.mp3",
+			"pitch": "04Conference/l4t6.pitch",
+			"textMarkup": "04Conference/l4t6.text"
+		}, {
+			"id": "00607",
+			"instructions": "??",
+			"text": "You know, I'm a great admirer of your work and your presentation really impressed me!",
+			"sound": "04Conference/l4t7.mp3",
+			"pitch": "04Conference/l4t7.pitch",
+			"textMarkup": "04Conference/l4t7.text"
+		}, {
+			"id": "00608",
+			"instructions": "??",
+			"text": "I wonder, if we could perhaps meet up later on to discuss...",
+			"sound": "04Conference/l4t8.mp3",
+			"pitch": "04Conference/l4t8.pitch",
+			"textMarkup": "04Conference/l4t8.text"
+		}, {
+			"id": "00609",
+			"instructions": "??",
+			"text": "We were at the same workshop this morning.",
+			"sound": "04Conference/l4t9.mp3",
+			"pitch": "04Conference/l4t9.pitch",
+			"textMarkup": "04Conference/l4t9.text"
+		}, {
+			"id": "00610",
+			"instructions": "??",
+			"text": "I think we were at the same session yesterday but we didn't have a chance to speak.",
+			"sound": "04Conference/l4t10.mp3",
+			"pitch": "04Conference/l4t10.pitch",
+			"textMarkup": "04Conference/l4t10.text"
+		}, {
+			"id": "00611",
+			"instructions": "??",
+			"text": "What's your interest in my field of work?",
+			"sound": "04Conference/l4t11.mp3",
+			"pitch": "04Conference/l4t11.pitch",
+			"textMarkup": "04Conference/l4t11.text"
+		}, {
+			"id": "00612",
+			"instructions": "??",
+			"text": "I'll be delighted because it's great to meet someone else is interested in the same sort of issues that I am.",
+			"sound": "04Conference/l4t12.mp3",
+			"pitch": "04Conference/l4t12.pitch",
+			"textMarkup": "04Conference/l4t12.text"
 		}]
 	}]
 }
