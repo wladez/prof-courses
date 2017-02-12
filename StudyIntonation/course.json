@@ -1,548 +1,630 @@
 {
-	"id": "StudyIntonation",
-	"title": "Study Intonation course is for everyday discourse skills mastering",
-	"description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-	"logo": "uk_flag.png",
-	"difficulty": 1,
-	"category": "Everyday discourse",
-	"lessons": [{
-		"id": "00100",
-		"title": "Common phrases of everyday life",
-		"description": "Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song. This warm-up will help you to get along with Professor H. Good luck!",
-		"logo": "01Common_phrases/uk_flag.png",
-		"duration": 25,
-		"tasks": [{
-			"id": "00000",
-			"instructions": "We start speaking with greetings",
-			"text": "Hello!",
-			"sound": "01Common_phrases/l1t0.mp3",
-			"pitch": "01Common_phrases/l1t0.pitch",
-			"textMarkup": "01Common_phrases/l1t0.text"
-		}, {
-			"id": "00001",
-			"instructions": "Fine! Let's go further",
-			"text": "How are things?",
-			"sound": "01Common_phrases/l1t01.mp3",
-			"pitch": "01Common_phrases/l1t01.pitch",
-			"textMarkup": "01Common_phrases/l1t01.text"
-		}, {
-			"id": "00002",
-			"instructions": "Fine! One more:",
-			"text": "How are you?",
-			"sound": "01Common_phrases/l1t02.mp3",
-			"pitch": "01Common_phrases/l1t02.pitch",
-			"textMarkup": "01Common_phrases/l1t02.text"
-		}, {
-			"id": "00003",
-			"instructions": "Fine! Let's reply:",
-			"text": "Fine, thanks!",
-			"sound": "01Common_phrases/l1t03.mp3",
-			"pitch": "01Common_phrases/l1t03.pitch",
-			"textMarkup": "01Common_phrases/l1t03.text"
-		}, {
-			"id": "00004",
-			"instructions": "You are great! One more:",
-			"text": "Very well! Thanks!!",
-			"sound": "01Common_phrases/l1t04.mp3",
-			"pitch": "01Common_phrases/l1t04.pitch",
-			"textMarkup": "01Common_phrases/l1t04.text"
-		}, {
-			"id": "00005",
-			"instructions": "Perfect! Try a longer phrase:",
-			"text": "Good morning! Did you sleep well?",
-			"sound": "01Common_phrases/l1t05.mp3",
-			"pitch": "01Common_phrases/l1t05.pitch",
-			"textMarkup": "01Common_phrases/l1t05.text"
-		}, {
-			"id": "00006",
-			"instructions": "Fine! Let's reply:",
-			"text": "Yes, very well! Thanks! And you?",
-			"sound": "01Common_phrases/l1t06.mp3",
-			"pitch": "01Common_phrases/l1t06.pitch",
-			"textMarkup": "01Common_phrases/l1t06.text"
-		}, {
-			"id": "00007",
-			"instructions": "You are great! Now observe the slight difference in intonation:",
-			"text": "Yeah, not too bad. Thanks!",
-			"sound": "01Common_phrases/l1t07.mp3",
-			"pitch": "01Common_phrases/l1t07.pitch",
-			"textMarkup": "01Common_phrases/l1t07.text"
-		}, {
-			"id": "00008",
-			"instructions": "Perfect! What if to try this:",
-			"text": "I think I know you",
-			"sound": "01Common_phrases/l1t08.mp3",
-			"pitch": "01Common_phrases/l1t08.pitch",
-			"textMarkup": "01Common_phrases/l1t08.text"
-		}, {
-			"id": "00009",
-			"instructions": "Great! Go further. Good luck!",
-			"text": "It's Julia, isn't it?",
-			"sound": "01Common_phrases/l1t09.mp3",
-			"pitch": "01Common_phrases/l1t09.pitch",
-			"textMarkup": "01Common_phrases/l1t09.text"
-		}, {
-			"id": "00010",
-			"instructions": "Professor H. says: Go on! Go on!",
-			"text": "It's Alan, isn't it?",
-			"sound": "01Common_phrases/l1t10.mp3",
-			"pitch": "01Common_phrases/l1t10.pitch",
-			"textMarkup": "01Common_phrases/l1t10.text"
-		}, {
-			"id": "00011",
-			"instructions": "You are doing very well! Now, let's see how to introduce yourself. Try this pitch with different names: Mary Smith, Mohamed salah, Andy Williams, Gennady Popov, Charlie Brown, Wo Sung Tung and many more...",
-			"text": "I am Bryan Jacobs",
-			"sound": "01Common_phrases/l1t11.mp3",
-			"pitch": "01Common_phrases/l1t11.pitch",
-			"textMarkup": "01Common_phrases/l1t11.text"
-		}, {
-			"id": "00012",
-			"instructions": "You are great! One more:",
-			"text": "I am Sophie Johns!",
-			"sound": "01Common_phrases/l1t12.mp3",
-			"pitch": "01Common_phrases/l1t12.pitch",
-			"textMarkup": "01Common_phrases/l1t12.text"
-		}, {
-			"id": "00013",
-			"instructions": "Fine! Now, this pitch is warm and friendly. Try it with different names: Mary, Mohamed, Andy, Gennady, Charlie, Tung and all your favorite names",
-			"text": "Pleased to meet you, Bryan!",
-			"sound": "01Common_phrases/l1t13.mp3",
-			"pitch": "01Common_phrases/l1t13.pitch",
-			"textMarkup": "01Common_phrases/l1t13.text"
-		}, {
-			"id": "00014",
-			"instructions": "Oh, it is a really job! Keep your progress:",
-			"text": "Pleased to meet you, too!",
-			"sound": "01Common_phrases/l1t14.mp3",
-			"pitch": "01Common_phrases/l1t14.pitch",
-			"textMarkup": "01Common_phrases/l1t14.text"
-		}, {
-			"id": "00015",
-			"instructions": "Perfect! This pitch is confident:",
-			"text": "I've had a lot to do!",
-			"sound": "01Common_phrases/l1t15.mp3",
-			"pitch": "01Common_phrases/l1t15.pitch",
-			"textMarkup": "01Common_phrases/l1t15.text"
-		}, {
-			"id": "00016",
-			"instructions": "Oh! This pitch is regretting:",
-			"text": "I had to cancel the meeting!",
-			"sound": "01Common_phrases/l1t16.mp3",
-			"pitch": "01Common_phrases/l1t16.pitch",
-			"textMarkup": "01Common_phrases/l1t16.text"
-		}, {
-			"id": "00017",
-			"instructions": "And this one is full of gratitude:",
-			"text": "I'd really appreciate that!",
-			"sound": "01Common_phrases/l1t17.mp3",
-			"pitch": "01Common_phrases/l1t17.pitch",
-			"textMarkup": "01Common_phrases/l1t17.text"
-		}, {
-			"id": "00018",
-			"instructions": "Perfect! Let's say it in tune:",
-			"text": "Are you going for lunch now?",
-			"sound": "01Common_phrases/l1t18.mp3",
-			"pitch": "01Common_phrases/l1t18.pitch",
-			"textMarkup": "01Common_phrases/l1t18.text"
-		}, {
-			"id": "00019",
-			"instructions": "Look at this short, but very rich pitch:",
-			"text": "Oh, yes! I am!",
-			"sound": "01Common_phrases/l1t19.mp3",
-			"pitch": "01Common_phrases/l1t19.pitch",
-			"textMarkup": "01Common_phrases/l1t19.text"
-		}, {
-			"id": "00020",
-			"instructions": "You are doing very well! Proceed:",
-			"text": "Do you mind if I join you for lunch?",
-			"sound": "01Common_phrases/l1t20.mp3",
-			"pitch": "01Common_phrases/l1t20.pitch",
-			"textMarkup": "01Common_phrases/l1t20.text"
-		}, {
-			"id": "00021",
-			"instructions": "Fine! This one is tough, but not for you:",
-			"text": "Have you had a chance to look around the city yet?",
-			"sound": "01Common_phrases/l1t21.mp3",
-			"pitch": "01Common_phrases/l1t21.pitch",
-			"textMarkup": "01Common_phrases/l1t21.text"
-		}, {
-			"id": "00022",
-			"instructions": "One more regretting pitch:",
-			"text": "Not yet, unfortunately.",
-			"sound": "01Common_phrases/l1t22.mp3",
-			"pitch": "01Common_phrases/l1t22.pitch",
-			"textMarkup": "01Common_phrases/l1t22.text"
-		}, {
-			"id": "00023",
-			"instructions": "Now it's time to show your skills!",
-			"text": "I know we haven't met before but could I have a word with you, please?",
-			"sound": "01Common_phrases/l1t23.mp3",
-			"pitch": "01Common_phrases/l1t23.pitch",
-			"textMarkup": "01Common_phrases/l1t23.text"
-		}, {
-			"id": "00024",
-			"instructions": "Wow! Profesor H. says:I am impressed. Absolutely! Just a couple of tasks, and we are done.",
-			"text": "I an glad! That's really kinf of you, thank you!",
-			"sound": "01Common_phrases/l1t24.mp3",
-			"pitch": "01Common_phrases/l1t24.pitch",
-			"textMarkup": "01Common_phrases/l1t24.text"
-		}, {
-			"id": "00025",
-			"instructions": "And the last one for now. Shy and diffifent pitch:",
-			"text": "I am sorry for I'm bothering you...",
-			"sound": "01Common_phrases/l1t25.mp3",
-			"pitch": "01Common_phrases/l1t25.pitch",
-			"textMarkup": "01Common_phrases/l1t25.text"
-		}]
-	}, {
-		"id": "00200",
-		"title": "Invitations. Make-Accept-Decline",
-		"description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
-		"logo": "02Invitations/uk_flag.png",
-		"duration": 15,
-		"tasks": [{
-			"id": "00201",
-			"instructions": "Invitation for dinner",
-			"text": "Would you like to join me for dinner?",
-			"sound": "02Invitations/l2t1.mp3",
-			"pitch": "02Invitations/l2t1.pitch",
-			"textMarkup": "02Invitations/l2t1.text"
-		}, {
-			"id": "00202",
-			"instructions": "Proposal 1 (Infinitive Construction)",
-			"text": "Would you like to visit the museum?",
-			"sound": "02Invitations/l2t2.mp3",
-			"pitch": "02Invitations/l2t2.pitch",
-			"textMarkup": "02Invitations/l2t2.text"
-		}, {
-			"id": "00203",
-			"instructions": "Proposal 2 (Using the Gerund)",
-			"text": "Would you be intereseted in going to see an exhibition?",
-			"sound": "02Invitations/l2t3.mp3",
-			"pitch": "02Invitations/l2t3.pitch",
-			"textMarkup": "02Invitations/l2t3.text"
-		}, {
-			"id": "00204",
-			"instructions": "Proposal 3 (\"A why don't...\" proposal)",
-			"text": "Would don't you join us for a cup of coffee?",
-			"sound": "02Invitations/l2t4.mp3",
-			"pitch": "02Invitations/l2t4.pitch",
-			"textMarkup": "02Invitations/l2t4.text"
-		}, {
-			"id": "00205",
-			"instructions": "Proposal 4 (\"A how about...\" proposal)",
-			"text": "How about going to the theatre tonight?",
-			"sound": "02Invitations/l2t5.mp3",
-			"pitch": "02Invitations/l2t5.pitch",
-			"textMarkup": "02Invitations/l2t5.text"
-		}, {
-			"id": "00206",
-			"instructions": "Accepting the invitation 1",
-			"text": "Thank you very much!",
-			"sound": "02Invitations/l2t6.mp3",
-			"pitch": "02Invitations/l2t6.pitch",
-			"textMarkup": "02Invitations/l2t6.text"
-		}, {
-			"id": "00207",
-			"instructions": "Accepting the invitation 2",
-			"text": "That would be very nice!",
-			"sound": "02Invitations/l2t7.mp3",
-			"pitch": "02Invitations/l2t7.pitch",
-			"textMarkup": "02Invitations/l2t7.text"
-		}, {
-			"id": "00208",
-			"instructions": "Accepting the invitation 3",
-			"text": "Thank you for inviting me!",
-			"sound": "02Invitations/l2t8.mp3",
-			"pitch": "02Invitations/l2t8.pitch",
-			"textMarkup": "02Invitations/l2t8.text"
-		}, {
-			"id": "00209",
-			"instructions": "Accepting the invitation 4",
-			"text": "I look for it!",
-			"sound": "02Invitations/l2t9.mp3",
-			"pitch": "02Invitations/l2t9.pitch",
-			"textMarkup": "02Invitations/l2t9.text"
-		}, {
-			"id": "00210",
-			"instructions": "Accepting the invitation 5",
-			"text": "Thank you! That would be a pleasure!",
-			"sound": "02Invitations/l2t10.mp3",
-			"pitch": "02Invitations/l2t10.pitch",
-			"textMarkup": "02Invitations/l2t10.text"
-		}, {
-			"id": "00211",
-			"instructions": "Accepting the invitation 6",
-			"text": "That's very kind of you! I'd love to come!",
-			"sound": "02Invitations/l2t11.mp3",
-			"pitch": "02Invitations/l2t11.pitch",
-			"textMarkup": "02Invitations/l2t11.text"
-		}, {
-			"id": "00212",
-			"instructions": "Accepting the invitation 7",
-			"text": "Thanks! That sounds great!",
-			"sound": "02Invitations/l2t12.mp3",
-			"pitch": "02Invitations/l2t12.pitch",
-			"textMarkup": "02Invitations/l2t12.text"
-		}, {
-			"id": "00213",
-			"instructions": "Accepting the invitation 8",
-			"text": "That sounds like fun!",
-			"sound": "02Invitations/l2t13.mp3",
-			"pitch": "02Invitations/l2t13.pitch",
-			"textMarkup": "02Invitations/l2t13.text"
-		}, {
-			"id": "00214",
-			"instructions": "Declining the invitation 1",
-			"text": "That's very kind of you, but I don't think I can.",
-			"sound": "02Invitations/l2t14.mp3",
-			"pitch": "02Invitations/l2t14.pitch",
-			"textMarkup": "02Invitations/l2t14.text"
-		}, {
-			"id": "00215",
-			"instructions": "Declining the invitation 2",
-			"text": "Thanks! But I don't think I can make it then.",
-			"sound": "02Invitations/l2t15.mp3",
-			"pitch": "02Invitations/l2t15.pitch",
-			"textMarkup": "02Invitations/l2t15.text"
-		}]
-	}, {
-		"id": "00400",
-		"title": "Show Your Emotions",
-		"description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
-		"logo": "03Emotions/uk_flag.png",
-		"duration": 15,
-		"tasks": [{
-			"id": "00401",
-			"instructions": "??",
-			"text": "I thought it was pretty awful.",
-			"sound": "03Emotions/l3t1.mp3",
-			"pitch": "03Emotions/l3t1.pitch",
-			"textMarkup": "03Emotions/l3t1.text"
-		}, {
-			"id": "00402",
-			"instructions": "??",
-			"text": "Oh, really?",
-			"sound": "03Emotions/l3t2.mp3",
-			"pitch": "03Emotions/l3t2.pitch",
-			"textMarkup": "03Emotions/l3t2.text"
-		}, {
-			"id": "00403",
-			"instructions": "??",
-			"text": "I thought it was all right.",
-			"sound": "03Emotions/l3t3.mp3",
-			"pitch": "03Emotions/l3t3.pitch",
-			"textMarkup": "03Emotions/l3t3.text"
-		}, {
-			"id": "00404",
-			"instructions": "??",
-			"text": "I thought they was quite a lot of stuff that was irrelevant too.",
-			"sound": "03Emotions/l3t4.mp3",
-			"pitch": "03Emotions/l3t4.pitch",
-			"textMarkup": "03Emotions/l3t4.text"
-		}, {
-			"id": "00405",
-			"instructions": "??",
-			"text": "That was useful!",
-			"sound": "03Emotions/l3t5.mp3",
-			"pitch": "03Emotions/l3t5.pitch",
-			"textMarkup": "03Emotions/l3t5.text"
-		}, {
-			"id": "00406",
-			"instructions": "??",
-			"text": "So, I came out feeling as though I wasted my time, to be honest.",
-			"sound": "03Emotions/l3t6.mp3",
-			"pitch": "03Emotions/l3t6.pitch",
-			"textMarkup": "03Emotions/l3t6.text"
-		}, {
-			"id": "00407",
-			"instructions": "??",
-			"text": "I am really impressed!",
-			"sound": "03Emotions/l3t7.mp3",
-			"pitch": "03Emotions/l3t7.pitch",
-			"textMarkup": "03Emotions/l3t7.text"
-		}, {
-			"id": "00408",
-			"instructions": "??",
-			"text": "It was fantastic, very inspirational, I've really enjoyed it!",
-			"sound": "03Emotions/l3t8.mp3",
-			"pitch": "03Emotions/l3t8.pitch",
-			"textMarkup": "03Emotions/l3t8.text"
-		}, {
-			"id": "00409",
-			"instructions": "??",
-			"text": "Oh, my! Such a wonderful thing!",
-			"sound": "03Emotions/l3t9.mp3",
-			"pitch": "03Emotions/l3t9.pitch",
-			"textMarkup": "03Emotions/l3t9.text"
-		}, {
-			"id": "00410",
-			"instructions": "??",
-			"text": "It's so nice, isn't it?",
-			"sound": "03Emotions/l3t10.mp3",
-			"pitch": "03Emotions/l3t10.pitch",
-			"textMarkup": "03Emotions/l3t10.text"
-		}, {
-			"id": "00411",
-			"instructions": "??",
-			"text": "Looks fantastic!",
-			"sound": "03Emotions/l3t11.mp3",
-			"pitch": "03Emotions/l3t11.pitch",
-			"textMarkup": "03Emotions/l3t11.text"
-		}, {
-			"id": "00412",
-			"instructions": "??",
-			"text": "Terrific! I love it!",
-			"sound": "03Emotions/l3t12.mp3",
-			"pitch": "03Emotions/l3t12.pitch",
-			"textMarkup": "03Emotions/l3t12.text"
-		}, {
-			"id": "00413",
-			"instructions": "??",
-			"text": "What a wonderful picture!",
-			"sound": "03Emotions/l3t13.mp3",
-			"pitch": "03Emotions/l3t13.pitch",
-			"textMarkup": "03Emotions/l3t13.text"
-		}, {
-			"id": "00414",
-			"instructions": "??",
-			"text": "Good job! Congratulations!",
-			"sound": "03Emotions/l3t14.mp3",
-			"pitch": "03Emotions/l3t14.pitch",
-			"textMarkup": "03Emotions/l3t14.text"
-		}, {
-			"id": "00415",
-			"instructions": "??",
-			"text": "You are terrific!",
-			"sound": "03Emotions/l3t15.mp3",
-			"pitch": "03Emotions/l3t15.pitch",
-			"textMarkup": "03Emotions/l3t15.text"
-		}, {
-			"id": "00416",
-			"instructions": "??",
-			"text": "Do you really thinks so? Thanks!",
-			"sound": "03Emotions/l3t16.mp3",
-			"pitch": "03Emotions/l3t16.pitch",
-			"textMarkup": "03Emotions/l3t16.text"
-		}, {
-			"id": "00417",
-			"instructions": "??",
-			"text": "I'm glad you liked it.",
-			"sound": "03Emotions/l3t17.mp3",
-			"pitch": "03Emotions/l3t17.pitch",
-			"textMarkup": "03Emotions/l3t17.text"
-		}, {
-			"id": "00418",
-			"instructions": "??",
-			"text": "How nice of you to say so!",
-			"sound": "03Emotions/l3t18.mp3",
-			"pitch": "03Emotions/l3t18.pitch",
-			"textMarkup": "03Emotions/l3t18.text"
-		}, {
-			"id": "00419",
-			"instructions": "??",
-			"text": "In fact, the credit should also go to my colleagues.",
-			"sound": "03Emotions/l3t19.mp3",
-			"pitch": "03Emotions/l3t19.pitch",
-			"textMarkup": "03Emotions/l3t19.text"
-		}, {
-			"id": "00420",
-			"instructions": "??",
-			"text": "It was nothing special, really.",
-			"sound": "03Emotions/l3t20.mp3",
-			"pitch": "03Emotions/l3t20.pitch",
-			"textMarkup": "03Emotions/l3t20.text"
-		}]
-	}, {
-		"id": "00600",
-		"title": "Conference",
-		"description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
-		"logo": "04Conference/uk_flag.png",
-		"duration": 15,
-		"tasks": [{
-			"id": "00601",
-			"instructions": "??",
-			"text": "How's the conference going for you?",
-			"sound": "04Conference/l4t1.mp3",
-			"pitch": "04Conference/l4t1.pitch",
-			"textMarkup": "04Conference/l4t1.text"
-		}, {
-			"id": "00602",
-			"instructions": "??",
-			"text": "What's your area of expertise?",
-			"sound": "04Conference/l4t2.mp3",
-			"pitch": "04Conference/l4t2.pitch",
-			"textMarkup": "04Conference/l4t2.text"
-		}, {
-			"id": "00603",
-			"instructions": "??",
-			"text": "And I've got an abstract as well which you could have, if it helps.",
-			"sound": "04Conference/l4t3.mp3",
-			"pitch": "04Conference/l4t3.pitch",
-			"textMarkup": "04Conference/l4t3.text"
-		}, {
-			"id": "00604",
-			"instructions": "??",
-			"text": "I'll go for the first method.",
-			"sound": "04Conference/l4t4.mp3",
-			"pitch": "04Conference/l4t4.pitch",
-			"textMarkup": "04Conference/l4t4.text"
-		}, {
-			"id": "00605",
-			"instructions": "??",
-			"text": "My topic today is...",
-			"sound": "04Conference/l4t5.mp3",
-			"pitch": "04Conference/l4t5.pitch",
-			"textMarkup": "04Conference/l4t5.text"
-		}, {
-			"id": "00606",
-			"instructions": "??",
-			"text": "I think you were at my presentation yesterday, weren't you?",
-			"sound": "04Conference/l4t6.mp3",
-			"pitch": "04Conference/l4t6.pitch",
-			"textMarkup": "04Conference/l4t6.text"
-		}, {
-			"id": "00607",
-			"instructions": "??",
-			"text": "You know, I'm a great admirer of your work and your presentation really impressed me!",
-			"sound": "04Conference/l4t7.mp3",
-			"pitch": "04Conference/l4t7.pitch",
-			"textMarkup": "04Conference/l4t7.text"
-		}, {
-			"id": "00608",
-			"instructions": "??",
-			"text": "I wonder, if we could perhaps meet up later on to discuss...",
-			"sound": "04Conference/l4t8.mp3",
-			"pitch": "04Conference/l4t8.pitch",
-			"textMarkup": "04Conference/l4t8.text"
-		}, {
-			"id": "00609",
-			"instructions": "??",
-			"text": "We were at the same workshop this morning.",
-			"sound": "04Conference/l4t9.mp3",
-			"pitch": "04Conference/l4t9.pitch",
-			"textMarkup": "04Conference/l4t9.text"
-		}, {
-			"id": "00610",
-			"instructions": "??",
-			"text": "I think we were at the same session yesterday but we didn't have a chance to speak.",
-			"sound": "04Conference/l4t10.mp3",
-			"pitch": "04Conference/l4t10.pitch",
-			"textMarkup": "04Conference/l4t10.text"
-		}, {
-			"id": "00611",
-			"instructions": "??",
-			"text": "What's your interest in my field of work?",
-			"sound": "04Conference/l4t11.mp3",
-			"pitch": "04Conference/l4t11.pitch",
-			"textMarkup": "04Conference/l4t11.text"
-		}, {
-			"id": "00612",
-			"instructions": "??",
-			"text": "I'll be delighted because it's great to meet someone else is interested in the same sort of issues that I am.",
-			"sound": "04Conference/l4t12.mp3",
-			"pitch": "04Conference/l4t12.pitch",
-			"textMarkup": "04Conference/l4t12.text"
-		}]
-	}]
+  "id": "StudyIntonation",
+  "title": "Study Intonation course is for everyday discourse skills mastering",
+  "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+  "logo": "uk_flag.png",
+  "difficulty": 1,
+  "category": "Everyday discourse",
+  "lessons": [
+    {
+      "id": "00100",
+      "title": "Common phrases of everyday life",
+      "description": "Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song. This warm-up will help you to get along with Professor H. Good luck!",
+      "logo": "01Common_phrases/uk_flag.png",
+      "duration": 25,
+      "tasks": [
+        {
+          "id": "00000",
+          "instructions": "We start speaking with greetings",
+          "text": "Hello!",
+          "sound": "01Common_phrases/l1t0.mp3",
+          "pitch": "01Common_phrases/l1t0.pitch",
+          "textMarkup": "01Common_phrases/l1t0.text"
+        },
+        {
+          "id": "00001",
+          "instructions": "Fine! Let's go further",
+          "text": "How are things?",
+          "sound": "01Common_phrases/l1t01.mp3",
+          "pitch": "01Common_phrases/l1t01.pitch",
+          "textMarkup": "01Common_phrases/l1t01.text"
+        },
+        {
+          "id": "00002",
+          "instructions": "Fine! One more:",
+          "text": "How are you?",
+          "sound": "01Common_phrases/l1t02.mp3",
+          "pitch": "01Common_phrases/l1t02.pitch",
+          "textMarkup": "01Common_phrases/l1t02.text"
+        },
+        {
+          "id": "00003",
+          "instructions": "Fine! Let's reply:",
+          "text": "Fine, thanks!",
+          "sound": "01Common_phrases/l1t03.mp3",
+          "pitch": "01Common_phrases/l1t03.pitch",
+          "textMarkup": "01Common_phrases/l1t03.text"
+        },
+        {
+          "id": "00004",
+          "instructions": "You are great! One more:",
+          "text": "Very well! Thanks!!",
+          "sound": "01Common_phrases/l1t04.mp3",
+          "pitch": "01Common_phrases/l1t04.pitch",
+          "textMarkup": "01Common_phrases/l1t04.text"
+        },
+        {
+          "id": "00005",
+          "instructions": "Perfect! Try a longer phrase:",
+          "text": "Good morning! Did you sleep well?",
+          "sound": "01Common_phrases/l1t05.mp3",
+          "pitch": "01Common_phrases/l1t05.pitch",
+          "textMarkup": "01Common_phrases/l1t05.text"
+        },
+        {
+          "id": "00006",
+          "instructions": "Fine! Let's reply:",
+          "text": "Yes, very well! Thanks! And you?",
+          "sound": "01Common_phrases/l1t06.mp3",
+          "pitch": "01Common_phrases/l1t06.pitch",
+          "textMarkup": "01Common_phrases/l1t06.text"
+        },
+        {
+          "id": "00007",
+          "instructions": "You are great! Now observe the slight difference in intonation:",
+          "text": "Yeah, not too bad. Thanks!",
+          "sound": "01Common_phrases/l1t07.mp3",
+          "pitch": "01Common_phrases/l1t07.pitch",
+          "textMarkup": "01Common_phrases/l1t07.text"
+        },
+        {
+          "id": "00008",
+          "instructions": "Perfect! What if to try this:",
+          "text": "I think I know you",
+          "sound": "01Common_phrases/l1t08.mp3",
+          "pitch": "01Common_phrases/l1t08.pitch",
+          "textMarkup": "01Common_phrases/l1t08.text"
+        },
+        {
+          "id": "00009",
+          "instructions": "Great! Go further. Good luck!",
+          "text": "It's Julia, isn't it?",
+          "sound": "01Common_phrases/l1t09.mp3",
+          "pitch": "01Common_phrases/l1t09.pitch",
+          "textMarkup": "01Common_phrases/l1t09.text"
+        },
+        {
+          "id": "00010",
+          "instructions": "Professor H. says: Go on! Go on!",
+          "text": "It's Alan, isn't it?",
+          "sound": "01Common_phrases/l1t10.mp3",
+          "pitch": "01Common_phrases/l1t10.pitch",
+          "textMarkup": "01Common_phrases/l1t10.text"
+        },
+        {
+          "id": "00011",
+          "instructions": "You are doing very well! Now, let's see how to introduce yourself. Try this pitch with different names: Mary Smith, Mohamed salah, Andy Williams, Gennady Popov, Charlie Brown, Wo Sung Tung and many more...",
+          "text": "I am Bryan Jacobs",
+          "sound": "01Common_phrases/l1t11.mp3",
+          "pitch": "01Common_phrases/l1t11.pitch",
+          "textMarkup": "01Common_phrases/l1t11.text"
+        },
+        {
+          "id": "00012",
+          "instructions": "You are great! One more:",
+          "text": "I am Sophie Johns!",
+          "sound": "01Common_phrases/l1t12.mp3",
+          "pitch": "01Common_phrases/l1t12.pitch",
+          "textMarkup": "01Common_phrases/l1t12.text"
+        },
+        {
+          "id": "00013",
+          "instructions": "Fine! Now, this pitch is warm and friendly. Try it with different names: Mary, Mohamed, Andy, Gennady, Charlie, Tung and all your favorite names",
+          "text": "Pleased to meet you, Bryan!",
+          "sound": "01Common_phrases/l1t13.mp3",
+          "pitch": "01Common_phrases/l1t13.pitch",
+          "textMarkup": "01Common_phrases/l1t13.text"
+        },
+        {
+          "id": "00014",
+          "instructions": "Oh, it is a really job! Keep your progress:",
+          "text": "Pleased to meet you, too!",
+          "sound": "01Common_phrases/l1t14.mp3",
+          "pitch": "01Common_phrases/l1t14.pitch",
+          "textMarkup": "01Common_phrases/l1t14.text"
+        },
+        {
+          "id": "00015",
+          "instructions": "Perfect! This pitch is confident:",
+          "text": "I've had a lot to do!",
+          "sound": "01Common_phrases/l1t15.mp3",
+          "pitch": "01Common_phrases/l1t15.pitch",
+          "textMarkup": "01Common_phrases/l1t15.text"
+        },
+        {
+          "id": "00016",
+          "instructions": "Oh! This pitch is regretting:",
+          "text": "I had to cancel the meeting!",
+          "sound": "01Common_phrases/l1t16.mp3",
+          "pitch": "01Common_phrases/l1t16.pitch",
+          "textMarkup": "01Common_phrases/l1t16.text"
+        },
+        {
+          "id": "00017",
+          "instructions": "And this one is full of gratitude:",
+          "text": "I'd really appreciate that!",
+          "sound": "01Common_phrases/l1t17.mp3",
+          "pitch": "01Common_phrases/l1t17.pitch",
+          "textMarkup": "01Common_phrases/l1t17.text"
+        },
+        {
+          "id": "00018",
+          "instructions": "Perfect! Let's say it in tune:",
+          "text": "Are you going for lunch now?",
+          "sound": "01Common_phrases/l1t18.mp3",
+          "pitch": "01Common_phrases/l1t18.pitch",
+          "textMarkup": "01Common_phrases/l1t18.text"
+        },
+        {
+          "id": "00019",
+          "instructions": "Look at this short, but very rich pitch:",
+          "text": "Oh, yes! I am!",
+          "sound": "01Common_phrases/l1t19.mp3",
+          "pitch": "01Common_phrases/l1t19.pitch",
+          "textMarkup": "01Common_phrases/l1t19.text"
+        },
+        {
+          "id": "00020",
+          "instructions": "You are doing very well! Proceed:",
+          "text": "Do you mind if I join you for lunch?",
+          "sound": "01Common_phrases/l1t20.mp3",
+          "pitch": "01Common_phrases/l1t20.pitch",
+          "textMarkup": "01Common_phrases/l1t20.text"
+        },
+        {
+          "id": "00021",
+          "instructions": "Fine! This one is tough, but not for you:",
+          "text": "Have you had a chance to look around the city yet?",
+          "sound": "01Common_phrases/l1t21.mp3",
+          "pitch": "01Common_phrases/l1t21.pitch",
+          "textMarkup": "01Common_phrases/l1t21.text"
+        },
+        {
+          "id": "00022",
+          "instructions": "One more regretting pitch:",
+          "text": "Not yet, unfortunately.",
+          "sound": "01Common_phrases/l1t22.mp3",
+          "pitch": "01Common_phrases/l1t22.pitch",
+          "textMarkup": "01Common_phrases/l1t22.text"
+        },
+        {
+          "id": "00023",
+          "instructions": "Now it's time to show your skills!",
+          "text": "I know we haven't met before but could I have a word with you, please?",
+          "sound": "01Common_phrases/l1t23.mp3",
+          "pitch": "01Common_phrases/l1t23.pitch",
+          "textMarkup": "01Common_phrases/l1t23.text"
+        },
+        {
+          "id": "00024",
+          "instructions": "Wow! Profesor H. says:I am impressed. Absolutely! Just a couple of tasks, and we are done.",
+          "text": "I an glad! That's really kinf of you, thank you!",
+          "sound": "01Common_phrases/l1t24.mp3",
+          "pitch": "01Common_phrases/l1t24.pitch",
+          "textMarkup": "01Common_phrases/l1t24.text"
+        },
+        {
+          "id": "00025",
+          "instructions": "And the last one for now. Shy and diffifent pitch:",
+          "text": "I am sorry for I'm bothering you...",
+          "sound": "01Common_phrases/l1t25.mp3",
+          "pitch": "01Common_phrases/l1t25.pitch",
+          "textMarkup": "01Common_phrases/l1t25.text"
+        }
+      ]
+    },
+    {
+      "id": "00200",
+      "title": "Invitations. Make-Accept-Decline",
+      "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
+      "logo": "02Invitations/uk_flag.png",
+      "duration": 15,
+      "tasks": [
+        {
+          "id": "00201",
+          "instructions": "Invitation for dinner",
+          "text": "Would you like to join me for dinner?",
+          "sound": "02Invitations/l2t1.mp3",
+          "pitch": "02Invitations/l2t1.pitch",
+          "textMarkup": "02Invitations/l2t1.text"
+        },
+        {
+          "id": "00202",
+          "instructions": "Proposal 1 (Infinitive Construction)",
+          "text": "Would you like to visit the museum?",
+          "sound": "02Invitations/l2t2.mp3",
+          "pitch": "02Invitations/l2t2.pitch",
+          "textMarkup": "02Invitations/l2t2.text"
+        },
+        {
+          "id": "00203",
+          "instructions": "Proposal 2 (Using the Gerund)",
+          "text": "Would you be intereseted in going to see an exhibition?",
+          "sound": "02Invitations/l2t3.mp3",
+          "pitch": "02Invitations/l2t3.pitch",
+          "textMarkup": "02Invitations/l2t3.text"
+        },
+        {
+          "id": "00204",
+          "instructions": "Proposal 3 (\"A why don't...\" proposal)",
+          "text": "Would don't you join us for a cup of coffee?",
+          "sound": "02Invitations/l2t4.mp3",
+          "pitch": "02Invitations/l2t4.pitch",
+          "textMarkup": "02Invitations/l2t4.text"
+        },
+        {
+          "id": "00205",
+          "instructions": "Proposal 4 (\"A how about...\" proposal)",
+          "text": "How about going to the theatre tonight?",
+          "sound": "02Invitations/l2t5.mp3",
+          "pitch": "02Invitations/l2t5.pitch",
+          "textMarkup": "02Invitations/l2t5.text"
+        },
+        {
+          "id": "00206",
+          "instructions": "Accepting the invitation 1",
+          "text": "Thank you very much!",
+          "sound": "02Invitations/l2t6.mp3",
+          "pitch": "02Invitations/l2t6.pitch",
+          "textMarkup": "02Invitations/l2t6.text"
+        },
+        {
+          "id": "00207",
+          "instructions": "Accepting the invitation 2",
+          "text": "That would be very nice!",
+          "sound": "02Invitations/l2t7.mp3",
+          "pitch": "02Invitations/l2t7.pitch",
+          "textMarkup": "02Invitations/l2t7.text"
+        },
+        {
+          "id": "00208",
+          "instructions": "Accepting the invitation 3",
+          "text": "Thank you for inviting me!",
+          "sound": "02Invitations/l2t8.mp3",
+          "pitch": "02Invitations/l2t8.pitch",
+          "textMarkup": "02Invitations/l2t8.text"
+        },
+        {
+          "id": "00209",
+          "instructions": "Accepting the invitation 4",
+          "text": "I look for it!",
+          "sound": "02Invitations/l2t9.mp3",
+          "pitch": "02Invitations/l2t9.pitch",
+          "textMarkup": "02Invitations/l2t9.text"
+        },
+        {
+          "id": "00210",
+          "instructions": "Accepting the invitation 5",
+          "text": "Thank you! That would be a pleasure!",
+          "sound": "02Invitations/l2t10.mp3",
+          "pitch": "02Invitations/l2t10.pitch",
+          "textMarkup": "02Invitations/l2t10.text"
+        },
+        {
+          "id": "00211",
+          "instructions": "Accepting the invitation 6",
+          "text": "That's very kind of you! I'd love to come!",
+          "sound": "02Invitations/l2t11.mp3",
+          "pitch": "02Invitations/l2t11.pitch",
+          "textMarkup": "02Invitations/l2t11.text"
+        },
+        {
+          "id": "00212",
+          "instructions": "Accepting the invitation 7",
+          "text": "Thanks! That sounds great!",
+          "sound": "02Invitations/l2t12.mp3",
+          "pitch": "02Invitations/l2t12.pitch",
+          "textMarkup": "02Invitations/l2t12.text"
+        },
+        {
+          "id": "00213",
+          "instructions": "Accepting the invitation 8",
+          "text": "That sounds like fun!",
+          "sound": "02Invitations/l2t13.mp3",
+          "pitch": "02Invitations/l2t13.pitch",
+          "textMarkup": "02Invitations/l2t13.text"
+        },
+        {
+          "id": "00214",
+          "instructions": "Declining the invitation 1",
+          "text": "That's very kind of you, but I don't think I can.",
+          "sound": "02Invitations/l2t14.mp3",
+          "pitch": "02Invitations/l2t14.pitch",
+          "textMarkup": "02Invitations/l2t14.text"
+        },
+        {
+          "id": "00215",
+          "instructions": "Declining the invitation 2",
+          "text": "Thanks! But I don't think I can make it then.",
+          "sound": "02Invitations/l2t15.mp3",
+          "pitch": "02Invitations/l2t15.pitch",
+          "textMarkup": "02Invitations/l2t15.text"
+        }
+      ]
+    },
+    {
+      "id": "00400",
+      "title": "Show Your Emotions",
+      "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
+      "logo": "03Emotions/uk_flag.png",
+      "duration": 15,
+      "tasks": [
+        {
+          "id": "00401",
+          "instructions": "??",
+          "text": "I thought it was pretty awful.",
+          "sound": "03Emotions/l3t1.mp3",
+          "pitch": "03Emotions/l3t1.pitch",
+          "textMarkup": "03Emotions/l3t1.text"
+        },
+        {
+          "id": "00402",
+          "instructions": "??",
+          "text": "Oh, really?",
+          "sound": "03Emotions/l3t2.mp3",
+          "pitch": "03Emotions/l3t2.pitch",
+          "textMarkup": "03Emotions/l3t2.text"
+        },
+        {
+          "id": "00403",
+          "instructions": "??",
+          "text": "I thought it was all right.",
+          "sound": "03Emotions/l3t3.mp3",
+          "pitch": "03Emotions/l3t3.pitch",
+          "textMarkup": "03Emotions/l3t3.text"
+        },
+        {
+          "id": "00404",
+          "instructions": "??",
+          "text": "I thought they was quite a lot of stuff that was irrelevant too.",
+          "sound": "03Emotions/l3t4.mp3",
+          "pitch": "03Emotions/l3t4.pitch",
+          "textMarkup": "03Emotions/l3t4.text"
+        },
+        {
+          "id": "00405",
+          "instructions": "??",
+          "text": "That was useful!",
+          "sound": "03Emotions/l3t5.mp3",
+          "pitch": "03Emotions/l3t5.pitch",
+          "textMarkup": "03Emotions/l3t5.text"
+        },
+        {
+          "id": "00406",
+          "instructions": "??",
+          "text": "So, I came out feeling as though I wasted my time, to be honest.",
+          "sound": "03Emotions/l3t6.mp3",
+          "pitch": "03Emotions/l3t6.pitch",
+          "textMarkup": "03Emotions/l3t6.text"
+        },
+        {
+          "id": "00407",
+          "instructions": "??",
+          "text": "I am really impressed!",
+          "sound": "03Emotions/l3t7.mp3",
+          "pitch": "03Emotions/l3t7.pitch",
+          "textMarkup": "03Emotions/l3t7.text"
+        },
+        {
+          "id": "00408",
+          "instructions": "??",
+          "text": "It was fantastic, very inspirational, I've really enjoyed it!",
+          "sound": "03Emotions/l3t8.mp3",
+          "pitch": "03Emotions/l3t8.pitch",
+          "textMarkup": "03Emotions/l3t8.text"
+        },
+        {
+          "id": "00409",
+          "instructions": "??",
+          "text": "Oh, my! Such a wonderful thing!",
+          "sound": "03Emotions/l3t9.mp3",
+          "pitch": "03Emotions/l3t9.pitch",
+          "textMarkup": "03Emotions/l3t9.text"
+        },
+        {
+          "id": "00410",
+          "instructions": "??",
+          "text": "It's so nice, isn't it?",
+          "sound": "03Emotions/l3t10.mp3",
+          "pitch": "03Emotions/l3t10.pitch",
+          "textMarkup": "03Emotions/l3t10.text"
+        },
+        {
+          "id": "00411",
+          "instructions": "??",
+          "text": "Looks fantastic!",
+          "sound": "03Emotions/l3t11.mp3",
+          "pitch": "03Emotions/l3t11.pitch",
+          "textMarkup": "03Emotions/l3t11.text"
+        },
+        {
+          "id": "00412",
+          "instructions": "??",
+          "text": "Terrific! I love it!",
+          "sound": "03Emotions/l3t12.mp3",
+          "pitch": "03Emotions/l3t12.pitch",
+          "textMarkup": "03Emotions/l3t12.text"
+        },
+        {
+          "id": "00413",
+          "instructions": "??",
+          "text": "What a wonderful picture!",
+          "sound": "03Emotions/l3t13.mp3",
+          "pitch": "03Emotions/l3t13.pitch",
+          "textMarkup": "03Emotions/l3t13.text"
+        },
+        {
+          "id": "00414",
+          "instructions": "??",
+          "text": "Good job! Congratulations!",
+          "sound": "03Emotions/l3t14.mp3",
+          "pitch": "03Emotions/l3t14.pitch",
+          "textMarkup": "03Emotions/l3t14.text"
+        },
+        {
+          "id": "00415",
+          "instructions": "??",
+          "text": "You are terrific!",
+          "sound": "03Emotions/l3t15.mp3",
+          "pitch": "03Emotions/l3t15.pitch",
+          "textMarkup": "03Emotions/l3t15.text"
+        },
+        {
+          "id": "00416",
+          "instructions": "??",
+          "text": "Do you really thinks so? Thanks!",
+          "sound": "03Emotions/l3t16.mp3",
+          "pitch": "03Emotions/l3t16.pitch",
+          "textMarkup": "03Emotions/l3t16.text"
+        },
+        {
+          "id": "00417",
+          "instructions": "??",
+          "text": "I'm glad you liked it.",
+          "sound": "03Emotions/l3t17.mp3",
+          "pitch": "03Emotions/l3t17.pitch",
+          "textMarkup": "03Emotions/l3t17.text"
+        },
+        {
+          "id": "00418",
+          "instructions": "??",
+          "text": "How nice of you to say so!",
+          "sound": "03Emotions/l3t18.mp3",
+          "pitch": "03Emotions/l3t18.pitch",
+          "textMarkup": "03Emotions/l3t18.text"
+        },
+        {
+          "id": "00419",
+          "instructions": "??",
+          "text": "In fact, the credit should also go to my colleagues.",
+          "sound": "03Emotions/l3t19.mp3",
+          "pitch": "03Emotions/l3t19.pitch",
+          "textMarkup": "03Emotions/l3t19.text"
+        },
+        {
+          "id": "00420",
+          "instructions": "??",
+          "text": "It was nothing special, really.",
+          "sound": "03Emotions/l3t20.mp3",
+          "pitch": "03Emotions/l3t20.pitch",
+          "textMarkup": "03Emotions/l3t20.text"
+        }
+      ]
+    },
+    {
+      "id": "00600",
+      "title": "Conference",
+      "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
+      "logo": "04Conference/uk_flag.png",
+      "duration": 15,
+      "tasks": [
+        {
+          "id": "00601",
+          "instructions": "??",
+          "text": "How's the conference going for you?",
+          "sound": "04Conference/l4t1.mp3",
+          "pitch": "04Conference/l4t1.pitch",
+          "textMarkup": "04Conference/l4t1.text"
+        },
+        {
+          "id": "00602",
+          "instructions": "??",
+          "text": "What's your area of expertise?",
+          "sound": "04Conference/l4t2.mp3",
+          "pitch": "04Conference/l4t2.pitch",
+          "textMarkup": "04Conference/l4t2.text"
+        },
+        {
+          "id": "00603",
+          "instructions": "??",
+          "text": "And I've got an abstract as well which you could have, if it helps.",
+          "sound": "04Conference/l4t3.mp3",
+          "pitch": "04Conference/l4t3.pitch",
+          "textMarkup": "04Conference/l4t3.text"
+        },
+        {
+          "id": "00604",
+          "instructions": "??",
+          "text": "I'll go for the first method.",
+          "sound": "04Conference/l4t4.mp3",
+          "pitch": "04Conference/l4t4.pitch",
+          "textMarkup": "04Conference/l4t4.text"
+        },
+        {
+          "id": "00605",
+          "instructions": "??",
+          "text": "My topic today is...",
+          "sound": "04Conference/l4t5.mp3",
+          "pitch": "04Conference/l4t5.pitch",
+          "textMarkup": "04Conference/l4t5.text"
+        },
+        {
+          "id": "00606",
+          "instructions": "??",
+          "text": "I think you were at my presentation yesterday, weren't you?",
+          "sound": "04Conference/l4t6.mp3",
+          "pitch": "04Conference/l4t6.pitch",
+          "textMarkup": "04Conference/l4t6.text"
+        },
+        {
+          "id": "00607",
+          "instructions": "??",
+          "text": "You know, I'm a great admirer of your work and your presentation really impressed me!",
+          "sound": "04Conference/l4t7.mp3",
+          "pitch": "04Conference/l4t7.pitch",
+          "textMarkup": "04Conference/l4t7.text"
+        },
+        {
+          "id": "00608",
+          "instructions": "??",
+          "text": "I wonder, if we could perhaps meet up later on to discuss...",
+          "sound": "04Conference/l4t8.mp3",
+          "pitch": "04Conference/l4t8.pitch",
+          "textMarkup": "04Conference/l4t8.text"
+        },
+        {
+          "id": "00609",
+          "instructions": "??",
+          "text": "We were at the same workshop this morning.",
+          "sound": "04Conference/l4t9.mp3",
+          "pitch": "04Conference/l4t9.pitch",
+          "textMarkup": "04Conference/l4t9.text"
+        },
+        {
+          "id": "00610",
+          "instructions": "??",
+          "text": "I think we were at the same session yesterday but we didn't have a chance to speak.",
+          "sound": "04Conference/l4t10.mp3",
+          "pitch": "04Conference/l4t10.pitch",
+          "textMarkup": "04Conference/l4t10.text"
+        },
+        {
+          "id": "00611",
+          "instructions": "??",
+          "text": "What's your interest in my field of work?",
+          "sound": "04Conference/l4t11.mp3",
+          "pitch": "04Conference/l4t11.pitch",
+          "textMarkup": "04Conference/l4t11.text"
+        },
+        {
+          "id": "00612",
+          "instructions": "??",
+          "text": "I'll be delighted because it's great to meet someone else is interested in the same sort of issues that I am.",
+          "sound": "04Conference/l4t12.mp3",
+          "pitch": "04Conference/l4t12.pitch",
+          "textMarkup": "04Conference/l4t12.text"
+        }
+      ]
+    }
+  ]
 }
