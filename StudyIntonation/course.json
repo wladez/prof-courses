@@ -1,8 +1,8 @@
 {
   "id": "StudyIntonation",
-  "title": "Study Intonation course is for everyday discourse skills mastering",
-  "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-  "logo": "uk_flag.png",
+  "title": "Study Intonation",
+  "description": "This course is for everyday discourse skills mastering. Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+  "logo": "logo.png",
   "difficulty": 1,
   "category": "Everyday discourse",
   "lessons": [
@@ -10,7 +10,7 @@
       "id": "00100",
       "title": "Common phrases of everyday life",
       "description": "Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song. This warm-up will help you to get along with Professor H. Good luck!",
-      "logo": "01Common_phrases/uk_flag.png",
+      "logo": "01Common_phrases/logo.png",
       "duration": 25,
       "tasks": [
         {
@@ -227,7 +227,7 @@
       "id": "00200",
       "title": "Invitations. Make-Accept-Decline",
       "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
-      "logo": "02Invitations/uk_flag.png",
+      "logo": "02Invitations/logo.png",
       "duration": 15,
       "tasks": [
         {
@@ -356,7 +356,7 @@
       "id": "00400",
       "title": "Show Your Emotions",
       "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
-      "logo": "03Emotions/uk_flag.png",
+      "logo": "03Emotions/logo.png",
       "duration": 15,
       "tasks": [
         {
@@ -386,7 +386,7 @@
         {
           "id": "00404",
           "instructions": "??",
-          "text": "I thought they was quite a lot of stuff that was irrelevant too.",
+          "text": "I thought there was quite a lot of stuff there that was irrelevant too.",
           "sound": "03Emotions/l3t4.mp3",
           "pitch": "03Emotions/l3t4.pitch",
           "textMarkup": "03Emotions/l3t4.text"
@@ -525,7 +525,7 @@
       "id": "00600",
       "title": "Conference",
       "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
-      "logo": "04Conference/uk_flag.png",
+      "logo": "04Conference/logo.png",
       "duration": 15,
       "tasks": [
         {
@@ -547,7 +547,7 @@
         {
           "id": "00603",
           "instructions": "??",
-          "text": "And I've got an abstract as well which you could have, if it helps.",
+          "text": "And I've got an abstract as well which you could have, if that helps.",
           "sound": "04Conference/l4t3.mp3",
           "pitch": "04Conference/l4t3.pitch",
           "textMarkup": "04Conference/l4t3.text"
@@ -579,7 +579,7 @@
         {
           "id": "00607",
           "instructions": "??",
-          "text": "You know, I'm a great admirer of your work and your presentation really impressed me!",
+          "text": "You know, I'm a great admirer of your work and the presentation really impressed me!",
           "sound": "04Conference/l4t7.mp3",
           "pitch": "04Conference/l4t7.pitch",
           "textMarkup": "04Conference/l4t7.text"
@@ -595,7 +595,7 @@
         {
           "id": "00609",
           "instructions": "??",
-          "text": "We were at the same workshop this morning.",
+          "text": "We were in the same workshop this morning.",
           "sound": "04Conference/l4t9.mp3",
           "pitch": "04Conference/l4t9.pitch",
           "textMarkup": "04Conference/l4t9.text"
@@ -603,7 +603,7 @@
         {
           "id": "00610",
           "instructions": "??",
-          "text": "I think we were at the same session yesterday but we didn't have a chance to speak.",
+          "text": "I think we were at the same session yesterday, but we didn't have a chance to speak.",
           "sound": "04Conference/l4t10.mp3",
           "pitch": "04Conference/l4t10.pitch",
           "textMarkup": "04Conference/l4t10.text"
@@ -619,7 +619,7 @@
         {
           "id": "00612",
           "instructions": "??",
-          "text": "I'll be delighted because it's great to meet someone else is interested in the same sort of issues that I am.",
+          "text": "I'll be delighted because it's great to meet someone else who's interested in the same sort of issues that I am.",
           "sound": "04Conference/l4t12.mp3",
           "pitch": "04Conference/l4t12.pitch",
           "textMarkup": "04Conference/l4t12.text"
