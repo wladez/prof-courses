@@ -4,7 +4,7 @@
 	"description": "Курс иллюстрирует предполагаемую структуру хранения курсов и не несет никакой педагогической ценности",
 	"logo": "uk_flag.png",
 	"difficulty": 5,
-	"category": "example",
+	"category": "Example",
 	"lessons": [{
 		"id": "00001",
 		"title": "Разогрев",

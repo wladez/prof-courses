@@ -4,13 +4,13 @@
     "start": "00:261",
     "stop": "00:650",
     "catchword": false
-  }
+  },
 {
     "fragment": "to cancel",
     "start": "00:650",
     "stop": "01:205",
     "catchword": true
-  }
+  },
 {
     "fragment": "the meeting.",
     "start": "01:210",
