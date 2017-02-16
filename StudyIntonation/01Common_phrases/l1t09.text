@@ -5,13 +5,13 @@
     "stop": "00:398",
     "catchword": false
   },
-{
+  {
     "fragment": "Julie,",
     "start": "00:447",
     "stop": "01:926",
     "catchword": true
   },
-{
+  {
     "fragment": "isn't it?",
     "start": "01:926",
     "stop": "01:376",

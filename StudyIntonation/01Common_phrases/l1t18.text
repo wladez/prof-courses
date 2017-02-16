@@ -5,13 +5,13 @@
     "stop": "00:578",
     "catchword": false
   },
-{
+  {
     "fragment": "for lunch",
     "start": "00:579",
     "stop": "01:055",
     "catchword": true
   },
-{
+  {
     "fragment": "now",
     "start": "01:061",
     "stop": "01:424",
