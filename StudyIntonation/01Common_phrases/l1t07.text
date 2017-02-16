@@ -5,13 +5,13 @@
     "stop": "00:668",
     "catchword": true
   },
-{
+  {
     "fragment": "not too bad,",
     "start": "00:668",
     "stop": "01:248",
     "catchword": false
   },
-{
+  {
     "fragment": "thanks.",
     "start": "01:248",
     "stop": "01:852",
