@@ -1,0 +1,41 @@
+{
+  "update": "13:34:44 16.02.2017",
+  "courses": [
+    {
+      "id": "StudyIntonation",
+      "title": "Study Intonation",
+      "description": "This course is for everyday discourse skills mastering. Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+      "logo": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/logo.png",
+      "size": 1361783,
+      "difficulty": 1,
+      "category": "Everyday discourse",
+      "version": "v1.1",
+      "sha2_hash": "edcbcaa7d475c46458807fdee5aacec19e445ed8eca1137e892c4c27a38da146",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/StudyIntonation.zip"
+    },
+    {
+      "id": "crash_course_01",
+      "title": "Crash Course",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+      "logo": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/uk_flag.png",
+      "size": 423738,
+      "difficulty": 5,
+      "category": "Example",
+      "version": "v1.1",
+      "sha2_hash": "c97d836bd1d78811ab3dc024d21f9d5ea6f907547796736d09aa1599788596",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/CrashCourse.zip"
+    },
+    {
+      "id": "demo_course_02",
+      "title": "Demo Course",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+      "logo": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/uk_flag.png",
+      "size": 423668,
+      "difficulty": 3,
+      "category": "Example",
+      "version": "v1.1",
+      "sha2_hash": "36b2dc29fea3cb388daf7e804d59dcfdaa4ab2916581cb2a62fa8fde2499d5d3",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/DemoCourse.zip"
+    }
+  ]
+}

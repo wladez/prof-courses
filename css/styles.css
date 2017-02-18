@@ -1,0 +1,142 @@
+body {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header,
+.features,
+.footer {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+}
+
+.footer {
+    margin-top: 25px;
+    padding-top: 15px;
+    color: #777;
+    border-top: 1px solid #eee;
+}
+
+@media (min-width: 968px) {
+    .container {
+        max-width: 930px;
+    }
+}
+
+.cover {
+    background: #337ab7;
+    background-size: cover;
+    min-height: 150px;
+    position: relative;
+}
+
+.cover img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.jumbotron {
+    background: linear-gradient(rgba(160, 211, 242, 0.2), rgba(110, 142, 162, 0.4)), url('../img/jumbotron.png') no-repeat center center;
+    background-size: cover;
+    min-height: 350px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 3px black;
+}
+
+.jumbotron h1 {
+    color: white;
+    text-shadow: 1px 2px 5px black;
+}
+
+.jumbotron .btn {
+    margin-top: 60px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-shadow: none;
+}
+
+.jumbotron .glyphicon {
+    font-size: 20px;
+}
+
+.features {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.features p + h4 {
+    margin-top: 28px;
+}
+
+.panel, .thumbnail {
+    margin-bottom: -10px;
+    height: 100%;
+    position: relative;
+}
+
+.panel .caption-full {
+    padding-bottom: 80px;
+}
+
+.panel .btn-download {
+    text-align: center;
+    width: 92%;
+    position: absolute;
+    bottom: 20px;
+}
+
+.panel-heading .glyphicon {
+    font-size: 16px;
+}
+
+.thumbnail .caption hr {
+    margin: 10px 0;
+}
+
+.education {
+    font-size: 18px;
+}
+
+.marg-top {
+    margin-top: 25px;
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+@media screen and (min-width: 768px) {
+    .header,
+    .features,
+    .footer {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .header {
+        margin-bottom: 30px;
+    }
+
+    .jumbotron {
+        border-bottom: 0;
+    }
+}
