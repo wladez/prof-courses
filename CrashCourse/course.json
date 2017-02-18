@@ -1,10 +1,18 @@
 {
-  "id": "crash_course_01",
+  "id": "CrashCourse",
   "title": "Crash Course",
   "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
   "logo": "uk_flag.png",
-  "difficulty": 5,
+  "difficulty": 3,
   "category": "Example",
+  "authors": [
+    "Bogach Natalia",
+    "Dyachkov Vadim",
+    "Lamtev Anton",
+    "Lezhenin Yurij",
+    "Vylegzhanina Karina"
+  ],
+  "releaseDate": "18.02.2017",
   "lessons": [
     {
       "id": "00001",

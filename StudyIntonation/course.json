@@ -5,6 +5,14 @@
   "logo": "logo.png",
   "difficulty": 1,
   "category": "Everyday discourse",
+  "authors": [
+    "Bogach Natalia",
+    "Dyachkov Vadim",
+    "Lamtev Anton",
+    "Lezhenin Yurij",
+    "Vylegzhanina Karina"
+  ],
+  "releaseDate": "18.02.2017",
   "lessons": [
     {
       "id": "00100",
