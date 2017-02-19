@@ -24,7 +24,7 @@
     "catchword": true
   },
   {
-    "fragment": "you",
+    "fragment": "you.",
     "start": "01:300",
     "stop": "01:464",
     "catchword": false

@@ -72,7 +72,7 @@
         {
           "id": "00006",
           "instructions": "Fine! Let's reply:",
-          "text": "Yes, very well! Thanks! And you?",
+          "text": "Yes! Very well, thanks! And you?",
           "sound": "01Common_phrases/l1t06.mp3",
           "pitch": "01Common_phrases/l1t06.pitch",
           "textMarkup": "01Common_phrases/l1t06.text"
@@ -80,7 +80,7 @@
         {
           "id": "00007",
           "instructions": "You are great! Now observe the slight difference in intonation:",
-          "text": "Yeah, not too bad. Thanks!",
+          "text": "Yeah! Not too bad, thanks!",
           "sound": "01Common_phrases/l1t07.mp3",
           "pitch": "01Common_phrases/l1t07.pitch",
           "textMarkup": "01Common_phrases/l1t07.text"
@@ -176,7 +176,7 @@
         {
           "id": "00019",
           "instructions": "Look at this short, but very rich pitch:",
-          "text": "Oh, yes! I am!",
+          "text": "Oh, yes, I am!",
           "sound": "01Common_phrases/l1t19.mp3",
           "pitch": "01Common_phrases/l1t19.pitch",
           "textMarkup": "01Common_phrases/l1t19.text"
