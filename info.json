@@ -1,41 +1,65 @@
 {
-  "update": "13:34:44 16.02.2017",
+  "update": "16:36:31 20.02.2017",
   "courses": [
     {
       "id": "StudyIntonation",
       "title": "Study Intonation",
       "description": "This course is for everyday discourse skills mastering. Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logo": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/logo.png",
-      "size": 1361783,
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/null",
+      "size": 1362845,
       "difficulty": 1,
       "category": "Everyday discourse",
-      "version": "v1.1",
-      "sha2_hash": "edcbcaa7d475c46458807fdee5aacec19e445ed8eca1137e892c4c27a38da146",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/StudyIntonation.zip"
+      "version": "v1.1.1",
+      "sha2Hash": "bc9de589336238922eb49d0e35b7b287417bca03de01b46d090f9df34bc34a9",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.1/StudyIntonation.zip",
+      "authors": [
+        "Bogach Natalia",
+        "Dyachkov Vadim",
+        "Lamtev Anton",
+        "Lezhenin Yurij",
+        "Vylegzhanina Karina"
+      ],
+      "releaseDate": "18.02.2017"
     },
     {
-      "id": "crash_course_01",
+      "id": "CrashCourse",
       "title": "Crash Course",
       "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logo": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/uk_flag.png",
-      "size": 423738,
-      "difficulty": 5,
-      "category": "Example",
-      "version": "v1.1",
-      "sha2_hash": "c97d836bd1d78811ab3dc024d21f9d5ea6f907547796736d09aa1599788596",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/CrashCourse.zip"
-    },
-    {
-      "id": "demo_course_02",
-      "title": "Demo Course",
-      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logo": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/uk_flag.png",
-      "size": 423668,
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/null",
+      "size": 423835,
       "difficulty": 3,
       "category": "Example",
-      "version": "v1.1",
-      "sha2_hash": "36b2dc29fea3cb388daf7e804d59dcfdaa4ab2916581cb2a62fa8fde2499d5d3",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/DemoCourse.zip"
+      "version": "v1.1.1",
+      "sha2Hash": "d4806f679f4a103d8ced858a9c861d4b8d03da886913ce329eb3b64ecd20b4",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.1/CrashCourse.zip",
+      "authors": [
+        "Bogach Natalia",
+        "Dyachkov Vadim",
+        "Lamtev Anton",
+        "Lezhenin Yurij",
+        "Vylegzhanina Karina"
+      ],
+      "releaseDate": "18.02.2017"
+    },
+    {
+      "id": "DemoCourse",
+      "title": "Demo Course",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/null",
+      "size": 423763,
+      "difficulty": 2,
+      "category": "Example",
+      "version": "v1.1.1",
+      "sha2Hash": "1a5ced5662458fa54fa44ebba5fe3ed89275a9d71db2bca6aedee24499e3761e",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.1/DemoCourse.zip",
+      "authors": [
+        "Bogach Natalia",
+        "Dyachkov Vadim",
+        "Lamtev Anton",
+        "Lezhenin Yurij",
+        "Vylegzhanina Karina"
+      ],
+      "releaseDate": "18.02.2017"
     }
   ]
 }
