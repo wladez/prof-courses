@@ -1,7 +1,7 @@
 {
   "id": "StudyIntonation",
   "title": "Study Intonation",
-  "description": "This course is for everyday discourse skills mastering. Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+  "description": "This course is for everyday discourse skills mastering. Starting with quite short phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech. Learn to produce intonation \"in tune\" when speaking.",
   "logo": "logo.png",
   "difficulty": 1,
   "category": "Everyday discourse",
@@ -16,7 +16,7 @@
   "lessons": [
     {
       "id": "1",
-      "title": "Common phrases of everyday life",
+      "title": "Everyday discourse",
       "description": "Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song. This warm-up will help you to get along with Study Intonation. Good luck!",
       "logo": "1Common_phrases/logo.png",
       "duration": 25,
@@ -88,7 +88,7 @@
         {
           "id": "9",
           "instructions": "Perfect! What if to try this:",
-          "text": "I think I know you",
+          "text": "I think I know you.",
           "sound": "1Common_phrases/l1t9.mp3",
           "pitch": "1Common_phrases/l1t9.pitch",
           "textMarkup": "1Common_phrases/l1t9.text"
@@ -111,7 +111,7 @@
         },
         {
           "id": "12",
-          "instructions": "You are doing very well! Now, let's see how to introduce yourself. Try this pitch with different names: Mary Smith, Mohamed salah, Andy Williams, Gennady Popov, Charlie Brown, Wo Sung Tung and many more...",
+          "instructions": "You are doing very well! Now, let's see how to introduce yourself. Try this pitch with different names: Mary Smith, Mohamed Salah, Andy Williams, Gennady Popov, Aya Kanazava, Wo Sung Tung and many more...",
           "text": "I am Bryan Jacobs",
           "sound": "1Common_phrases/l1t12.mp3",
           "pitch": "1Common_phrases/l1t12.pitch",
@@ -531,7 +531,7 @@
     },
     {
       "id": "4",
-      "title": "Conference",
+      "title": "Speaking in academic context",
       "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
       "logo": "4Conference/logo.png",
       "duration": 15,
