@@ -15,7 +15,7 @@ $.getJSON('info.json', function (data) {
         }
         html += '<div class="col-sm-6 col-lg-6 col-md-6">' +
             '<div class="thumbnail">' +
-            '<div class="cover"><img src="' + course.logo + '" alt="Course logo" class="img-responsive"></div>' +
+            '<div class="cover"><img src="' + course.logoUrl + '" alt="Course logo" class="img-responsive"></div>' +
             '<div class="caption">' +
             '<h4 class="pull-right"><span class="label label-default">' + course.category + '</span></h4>' +
             '<h4><span class="glyphicon glyphicon-education education" aria-hidden="true"></span> ' + course.title + '</h4>' +
