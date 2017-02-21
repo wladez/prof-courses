@@ -9,7 +9,7 @@
       "size": 1363663,
       "difficulty": 1,
       "category": "Everyday discourse",
-      "version": "v1.111",
+      "version": "v1.1.1",
       "sha2Hash": "3da082a552b972c54efdeaa3fbf3289c41a28a89e6f5fdbdbaa1493bf5ba6",
       "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.1/StudyIntonation.zip",
       "authors": [
@@ -29,7 +29,7 @@
       "size": 423998,
       "difficulty": 3,
       "category": "Example",
-      "version": "v1.111",
+      "version": "v1.1.1",
       "sha2Hash": "c5f2b04acd319de78e9142d9b4a013a9e6631187ed65db3ac864d72a9db49b51",
       "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.1/CrashCourse.zip",
       "authors": [
@@ -49,7 +49,7 @@
       "size": 423927,
       "difficulty": 2,
       "category": "Example",
-      "version": "v1.111",
+      "version": "v1.1.1",
       "sha2Hash": "406ffaa8aefb56d41d1969a318e7e1d556dba7b32c97defb47bad2a67e46",
       "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.1/DemoCourse.zip",
       "authors": [
