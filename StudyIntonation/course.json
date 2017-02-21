@@ -9,7 +9,7 @@
     {
       "id": "00100",
       "title": "Common phrases of everyday life",
-      "description": "Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song. This warm-up will help you to get along with Professor H. Good luck!",
+      "description": "Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song. This warm-up will help you to get along with Study Intonation. Good luck!",
       "logo": "01Common_phrases/logo.png",
       "duration": 25,
       "tasks": [
@@ -80,7 +80,7 @@
         {
           "id": "00008",
           "instructions": "Perfect! What if to try this:",
-          "text": "I think I know you",
+          "text": "I think I know you.",
           "sound": "01Common_phrases/l1t08.mp3",
           "pitch": "01Common_phrases/l1t08.pitch",
           "textMarkup": "01Common_phrases/l1t08.text"
@@ -95,7 +95,7 @@
         },
         {
           "id": "00010",
-          "instructions": "Professor H. says: Go on! Go on!",
+          "instructions": "Go on! Go on!",
           "text": "It's Alan, isn't it?",
           "sound": "01Common_phrases/l1t10.mp3",
           "pitch": "01Common_phrases/l1t10.pitch",
@@ -103,7 +103,7 @@
         },
         {
           "id": "00011",
-          "instructions": "You are doing very well! Now, let's see how to introduce yourself. Try this pitch with different names: Mary Smith, Mohamed salah, Andy Williams, Gennady Popov, Charlie Brown, Wo Sung Tung and many more...",
+          "instructions": "You are doing very well! Now, let's see how to introduce yourself. Try this pitch with different names: Mary Smith, Mohamed Salah, Andy Williams, Gennady Popov, Aya Kanazava, Wo Sung Tung and many more...",
           "text": "I am Bryan Jacobs",
           "sound": "01Common_phrases/l1t11.mp3",
           "pitch": "01Common_phrases/l1t11.pitch",
@@ -207,7 +207,7 @@
         },
         {
           "id": "00024",
-          "instructions": "Wow! Profesor H. says:I am impressed. Absolutely! Just a couple of tasks, and we are done.",
+          "instructions": "I am impressed. Absolutely! Just a couple of tasks, and we are done.",
           "text": "I an glad! That's really kinf of you, thank you!",
           "sound": "01Common_phrases/l1t24.mp3",
           "pitch": "01Common_phrases/l1t24.pitch",
