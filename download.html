@@ -12,36 +12,50 @@
 </head>
 <body>
 <div class="container">
-    <div class="header clearfix">
-        <nav>
-            <ul class="nav nav-pills pull-right">
-                <li role="presentation"><a href="index.html">
-                    <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
-                </a></li>
-                <li role="presentation" class="active"><a href="download.html">
-                    <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
-                </a></li>
-                <li role="presentation"><a href="courses.html">
-                    <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
-                </a></li>
-                <li role="presentation"><a href="tutorials.html">
-                    <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
-                </a></li>
-                <li role="presentation"><a href="contacts.html">
-                    <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
-                </a></li>
-            </ul>
-            <h3>
-                <a href="index.html" class="navbar-header"><img src="img/icon.png" alt="Study Intonation"></a>
-                <a href="index.html" class="navbar-brand">Study Intonation</a>
-            </h3>
-        </nav>
-    </div>
+    <nav class="navbar" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand" href="index.html">Study Intonation</a>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav nav-pills pull-right">
+                    <li><a href="index.html">
+                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
+                    </a></li>
+                    <li class="active"><a href="download.html">
+                        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
+                    </a></li>
+                    <li><a href="courses.html">
+                        <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
+                    </a></li>
+                    <li><a href="tutorials.html">
+                        <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
+                    </a></li>
+                    <li><a href="contacts.html">
+                        <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
     <div class="page-header">
-        <h2>Download
+        <h1>Download
             <small>Applications</small>
-        </h2>
+        </h1>
     </div>
+    <ol class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li class="active">Download</li>
+    </ol>
     <div class="row row-eq-height">
         <div class="col-md-6">
             <div class="panel panel-default">
@@ -50,7 +64,7 @@
                         Application</h4>
                 </div>
                 <div class="panel-body">
-                    <img src="img/jumbotron.png" alt="Study Intonation Android Application" class="img-responsive">
+                    <img src="img/jumbotron.png" alt="Study Intonation Android Application" class="img-rounded img-responsive">
                     <p></p>
                     <div class="caption-full">
                         <p>Awesome Android application for english intonation training.</p>
@@ -62,8 +76,8 @@
                         </ul>
                         <div class="btn-download">
                             <hr>
-                            <a href="#" class="btn btn-primary" role="button">
-                                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
+                            <a href="study-intonation.apk" class="btn btn-primary" role="button">
+                                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download .apk
                             </a>
                         </div>
                     </div>
@@ -77,7 +91,7 @@
                         Utility</h4>
                 </div>
                 <div class="panel-body">
-                    <img src="img/jumbotron.png" alt="Inspector Desktop Utility" class="img-responsive">
+                    <img src="img/jumbotron.png" alt="Inspector Desktop Utility" class="img-rounded img-responsive">
                     <p></p>
                     <div class="caption-full">
                         <p>Awesome utility for courses development.</p>
@@ -89,8 +103,8 @@
                         </ul>
                         <div class="btn-download">
                             <hr>
-                            <a href="#" class="btn btn-primary" role="button">
-                                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
+                            <a href="inspector.jar" class="btn btn-primary" role="button">
+                                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download .jar
                             </a>
                         </div>
                     </div>

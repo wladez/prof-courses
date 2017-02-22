@@ -12,34 +12,48 @@
 </head>
 <body>
 <div class="container">
-    <div class="header clearfix">
-        <nav>
-            <ul class="nav nav-pills pull-right">
-                <li role="presentation"><a href="index.html">
-                    <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
-                </a></li>
-                <li role="presentation"><a href="download.html">
-                    <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
-                </a></li>
-                <li role="presentation" class="active"><a href="courses.html">
-                    <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
-                </a></li>
-                <li role="presentation"><a href="tutorials.html">
-                    <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
-                </a></li>
-                <li role="presentation"><a href="contacts.html">
-                    <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
-                </a></li>
-            </ul>
-            <h3>
-                <a href="index.html" class="navbar-header"><img src="img/icon.png" alt="Study Intonation"></a>
-                <a href="index.html" class="navbar-brand">Study Intonation</a>
-            </h3>
-        </nav>
-    </div>
+    <nav class="navbar" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand" href="index.html">Study Intonation</a>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav nav-pills pull-right">
+                    <li><a href="index.html">
+                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
+                    </a></li>
+                    <li><a href="download.html">
+                        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
+                    </a></li>
+                    <li class="active"><a href="courses.html">
+                        <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
+                    </a></li>
+                    <li><a href="tutorials.html">
+                        <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
+                    </a></li>
+                    <li><a href="contacts.html">
+                        <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
     <div class="page-header">
-        <h2 id="title">Courses </h2>
+        <h1 id="title">Courses </h1>
     </div>
+    <ol class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li class="active">Courses</li>
+    </ol>
     <div id="courses"></div>
 </div>
 <div class="container">
@@ -48,7 +62,7 @@
     </footer>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="js/get-info.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>

@@ -12,42 +12,57 @@
 </head>
 <body>
 <div class="container">
-    <div class="header clearfix">
-        <nav>
-            <ul class="nav nav-pills pull-right">
-                <li role="presentation"><a href="index.html">
-                    <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
-                </a></li>
-                <li role="presentation"><a href="download.html">
-                    <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
-                </a></li>
-                <li role="presentation"><a href="courses.html">
-                    <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
-                </a></li>
-                <li role="presentation"><a href="tutorials.html">
-                    <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
-                </a></li>
-                <li role="presentation" class="active"><a href="contacts.html">
-                    <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
-                </a></li>
-            </ul>
-            <h3>
-                <a href="index.html" class="navbar-header"><img src="img/icon.png" alt="Study Intonation"></a>
-                <a href="index.html" class="navbar-brand">Study Intonation</a>
-            </h3>
-        </nav>
-    </div>
+    <nav class="navbar" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand" href="index.html">Study Intonation</a>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav nav-pills pull-right">
+                    <li><a href="index.html">
+                        <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home
+                    </a></li>
+                    <li><a href="download.html">
+                        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download
+                    </a></li>
+                    <li><a href="courses.html">
+                        <span class="glyphicon glyphicon-education" aria-hidden="true"></span> Courses
+                    </a></li>
+                    <li><a href="tutorials.html">
+                        <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Tutorials
+                    </a></li>
+                    <li class="active"><a href="contacts.html">
+                        <span class="glyphicon glyphicon-send" aria-hidden="true"></span> Contacts
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
     <div class="page-header">
-        <h2> About
+        <h1> About
             <small>Who We Are</small>
-        </h2>
+        </h1>
     </div>
+    <ol class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li class="active">Contacts</li>
+    </ol>
+    <p></p>
     <h3 class="text-center"><span class="glyphicon glyphicon-education" aria-hidden="true"></span>
         Peter the Great Saint Petersburg Polytechnic University</h3>
     <div class="row marg-top">
         <div class="col-md-5 ">
             <img src="http://www.spbstu.ru/university/organizational-documents/corporate-identity/identity-files/logo_main_en.png"
-                 class="center-block">
+                 class="img-responsive center-block">
         </div>
         <div class="col-md-7 text-muted">
             <h4>Institute of Computer Science and Technology</h4>
@@ -61,17 +76,33 @@
         </div>
     </div>
     <div class="page-header">
-        <h2>
-            Developers:
+        <h2> Developers
+            <small>Our Contacts</small>
         </h2>
-        <ul>
-            <li>Bogach Natalia bogach@kspt.icc.spbstu.ru</li>
-            <li>Vylegzhanina Karina vylegzhanina@kspt.icc.spbstu.ru</li>
-            <li>Dyachkov Vadim dyachkov@kspt.icc.spbstu.ru</li>
-            <li>Lamtev Anton lamtev@kspt.icc.spbstu.ru</li>
-            <li>Lezhenin Yurij lezhenin@kspt.icc.spbstu.ru</li>
-        </ul>
     </div>
+
+    <dl class="dl-horizontal">
+        <dt>Bogach Natalia</dt>
+        <dd><span class="text-muted"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email:</span>
+            <a href="mailto:bogach@kspt.icc.spbstu.ru">bogach@kspt.icc.spbstu.ru</a>
+        </dd>
+        <dt>Vylegzhanina Karina</dt>
+        <dd><span class="text-muted"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email:</span>
+            <a href="mailto:vylegzhanina@kspt.icc.spbstu.ru">vylegzhanina@kspt.icc.spbstu.ru</a>
+        </dd>
+        <dt>Dyachkov Vadim</dt>
+        <dd><span class="text-muted"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email:</span>
+            <a href="mailto:dyachkov@kspt.icc.spbstu.ru">dyachkov@kspt.icc.spbstu.ru</a>
+        </dd>
+        <dt>Lamtev Anton</dt>
+        <dd><span class="text-muted"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email:</span>
+            <a href="mailto:lamtev@kspt.icc.spbstu.ru">lamtev@kspt.icc.spbstu.ru</a>
+        </dd>
+        <dt>Lezhenin Yurij</dt>
+        <dd><span class="text-muted"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Email:</span>
+            <a href="mailto:lezhenin@kspt.icc.spbstu.ru">lezhenin@kspt.icc.spbstu.ru</a>
+        </dd>
+    </dl>
 
 </div>
 <div class="container">

@@ -11,9 +11,21 @@ body {
     padding-left: 15px;
 }
 
-.header {
-    padding-bottom: 20px;
+.navbar {
+    padding-bottom: 15px;
+    margin-bottom: 25px;
     border-bottom: 1px solid #eee;
+}
+
+.navbar-brand {
+    padding-left: 40px;
+    padding-top: 13px;
+    background: url("../img/icon.png") no-repeat left 5px;
+    font-size: 20px;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background-color: #337ab7;
 }
 
 .header h3 {
@@ -35,6 +47,10 @@ body {
     }
 }
 
+.page-header {
+    padding-bottom: 10px;
+}
+
 .cover {
     background: #337ab7;
     background-size: cover;
@@ -50,7 +66,7 @@ body {
 }
 
 .jumbotron {
-    background: linear-gradient(rgba(160, 211, 242, 0.2), rgba(110, 142, 162, 0.4)), url('../img/jumbotron.png') no-repeat center center;
+    background: linear-gradient(rgba(160, 211, 242, 0.2), rgba(110, 142, 162, 0.3)), url('../img/jumbotron.png') no-repeat center center;
     background-size: cover;
     min-height: 350px;
     text-align: center;
@@ -116,12 +132,26 @@ body {
     margin-top: 25px;
 }
 
-.row-eq-height {
+.thumbnail .label {
+    float: right !important;
+}
+
+dd {
+    margin-bottom: 5px;
+}
+
+.col-sm-6 {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
     margin-bottom: 30px;
+}
+
+@media (min-width: 768px) {
+    .container-fluid .navbar-collapse {
+        margin-right: -25px;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -138,5 +168,41 @@ body {
 
     .jumbotron {
         border-bottom: 0;
+    }
+}
+
+@media only screen and (min-width : 481px) {
+    .row.equal-height {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .row.equal-height > [class*='col-'] {
+        display: flex;
+        flex-direction: column;
+    }
+    .row.equal-height.row:after,
+    .row.equal-height.row:before {
+        display: flex;
+    }
+
+    .row.equal-height > [class*='col-'] > .thumbnail,
+    .row.equal-height > [class*='col-'] > .thumbnail > .caption {
+        display: flex;
+        flex: 1 0 auto;
+        flex-direction: column;
+    }
+    .row.equal-height > [class*='col-'] > .thumbnail > .caption > .flex-text {
+        flex-grow: 1;
+    }
+    .row.equal-height > [class*='col-'] > .thumbnail > img {
+        width: 100%;
+        height: 200px; /* force image's height */
+
+        /* force image fit inside it's "box" */
+        -webkit-object-fit: cover;
+        -moz-object-fit: cover;
+        -ms-object-fit: cover;
+        -o-object-fit: cover;
+        object-fit: cover;
     }
 }
