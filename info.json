@@ -1,41 +1,65 @@
 {
-  "update": "13:34:44 16.02.2017",
+  "update": "15:40:01 21.02.2017",
   "courses": [
     {
       "id": "StudyIntonation",
       "title": "Study Intonation",
-      "description": "This course is for everyday discourse skills mastering. Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logo": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/logo.png",
-      "size": 1361783,
+      "description": "This course is for everyday discourse skills mastering. Starting with quite short phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech. Learn to produce intonation \"in tune\" when speaking.",
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/StudyIntonation/logo.png",
+      "size": 1362840,
       "difficulty": 1,
       "category": "Everyday discourse",
-      "version": "v1.1",
-      "sha2_hash": "edcbcaa7d475c46458807fdee5aacec19e445ed8eca1137e892c4c27a38da146",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/StudyIntonation.zip"
+      "version": "v1.1.2",
+      "sha2Hash": "9a8365a47733fc432c67943926470cf4615efc93db9951af735bda368702197",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.2/StudyIntonation.zip",
+      "authors": [
+        "Bogach Natalia",
+        "Dyachkov Vadim",
+        "Lamtev Anton",
+        "Lezhenin Yurij",
+        "Vylegzhanina Karina"
+      ],
+      "releaseDate": "18.02.2017"
     },
     {
-      "id": "crash_course_01",
+      "id": "CrashCourse",
       "title": "Crash Course",
       "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logo": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/uk_flag.png",
-      "size": 423738,
-      "difficulty": 5,
-      "category": "Example",
-      "version": "v1.1",
-      "sha2_hash": "c97d836bd1d78811ab3dc024d21f9d5ea6f907547796736d09aa1599788596",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/CrashCourse.zip"
-    },
-    {
-      "id": "demo_course_02",
-      "title": "Demo Course",
-      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logo": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/uk_flag.png",
-      "size": 423668,
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/uk_flag.png",
+      "size": 423835,
       "difficulty": 3,
       "category": "Example",
-      "version": "v1.1",
-      "sha2_hash": "36b2dc29fea3cb388daf7e804d59dcfdaa4ab2916581cb2a62fa8fde2499d5d3",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1/DemoCourse.zip"
+      "version": "v1.1.2",
+      "sha2Hash": "10322e1a2559824427f6133f925f8207329b5ff0b1c99b4ec8044a1e322f",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.2/CrashCourse.zip",
+      "authors": [
+        "Bogach Natalia",
+        "Dyachkov Vadim",
+        "Lamtev Anton",
+        "Lezhenin Yurij",
+        "Vylegzhanina Karina"
+      ],
+      "releaseDate": "18.02.2017"
+    },
+    {
+      "id": "DemoCourse",
+      "title": "Demo Course",
+      "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
+      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/DemoCourse/uk_flag.png",
+      "size": 423763,
+      "difficulty": 2,
+      "category": "Example",
+      "version": "v1.1.2",
+      "sha2Hash": "dc9f70aa7915e988be77a09dad81cab8db9b471e6e187fbb4202e78336dee4d",
+      "url": "https://github.com/bogach/prof-courses/releases/download/v1.1.2/DemoCourse.zip",
+      "authors": [
+        "Bogach Natalia",
+        "Dyachkov Vadim",
+        "Lamtev Anton",
+        "Lezhenin Yurij",
+        "Vylegzhanina Karina"
+      ],
+      "releaseDate": "18.02.2017"
     }
   ]
 }
