@@ -1,3 +1,5 @@
 *.au
 *.wav
 *.aup
+.idea
+inspector.jar
