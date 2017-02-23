@@ -2,15 +2,15 @@
   "id": "CrashCourse",
   "title": "Crash Course",
   "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-  "logo": "uk_flag.png",
-  "difficulty": 3,
+  "logo": "logo.png",
+  "difficulty": 1,
   "category": "Example",
   "authors": [
-    "Bogach Natalia",
-    "Dyachkov Vadim",
-    "Lamtev Anton",
-    "Lezhenin Yurij",
-    "Vylegzhanina Karina"
+    "Natalia Bogach",
+    "Karina Vylegzhanina",
+    "Vadim Dyachkov",
+    "Anton Lamtev",
+    "Yurij Lezhenin"
   ],
   "releaseDate": "18.02.2017",
   "lessons": [
@@ -18,7 +18,7 @@
       "id": "00001",
       "title": "Разогрев",
       "description": "Небольшая разминка перед началом курса",
-      "logo": "01/u_k_flag.png",
+      "logo": "01/logo.png",
       "duration": 10,
       "tasks": [
         {
@@ -51,7 +51,7 @@
       "id": "00005",
       "title": "Тренировка интонации",
       "description": "Пора взяться за дело",
-      "logo": "02/u_k_flag.png",
+      "logo": "02/logo.png",
       "duration": 15,
       "tasks": [
         {
@@ -84,7 +84,7 @@
       "id": "00009",
       "title": "Берем вес",
       "description": "Пришло время испытать триумф",
-      "logo": "03/u_k_flag.png",
+      "logo": "03/logo.png",
       "duration": 53,
       "tasks": [
         {
