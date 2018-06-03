@@ -19,7 +19,7 @@
             "logo": "02Invitations/logo.png",
             "tasks": [
                 {
-                    "id": "27",
+                    "id": "1",
                     "instructions": "Invitation for dinner",
                     "text": "Would you like to join me for dinner?",
                     "sound": "02Invitations/l2t1.mp3",
@@ -27,7 +27,7 @@
                     "textMarkup": "02Invitations/l2t1.text"
                 },
                 {
-                    "id": "28",
+                    "id": "2",
                     "instructions": "Proposal 1 (Infinitive Construction)",
                     "text": "Would you like to visit the museum?",
                     "sound": "02Invitations/l2t2.mp3",
@@ -35,7 +35,7 @@
                     "textMarkup": "02Invitations/l2t2.text"
                 },
                 {
-                    "id": "29",
+                    "id": "3",
                     "instructions": "Proposal 2 (Using the Gerund)",
                     "text": "Would you be intereseted in going to see an exhibition?",
                     "sound": "02Invitations/l2t3.mp3",
@@ -43,7 +43,7 @@
                     "textMarkup": "02Invitations/l2t3.text"
                 },
                 {
-                    "id": "30",
+                    "id": "4",
                     "instructions": "Proposal 3 (\"A why don't...\" proposal)",
                     "text": "Why don't you join us for a cup of coffee?",
                     "sound": "02Invitations/l2t4.mp3",
@@ -51,7 +51,7 @@
                     "textMarkup": "02Invitations/l2t4.text"
                 },
                 {
-                    "id": "31",
+                    "id": "5",
                     "instructions": "Proposal 4 (\"A how about...\" proposal)",
                     "text": "How about going to the theatre tonight?",
                     "sound": "02Invitations/l2t5.mp3",
@@ -59,7 +59,7 @@
                     "textMarkup": "02Invitations/l2t5.text"
                 },
                 {
-                    "id": "32",
+                    "id": "6",
                     "instructions": "Accepting the invitation 1",
                     "text": "Thank you very much!",
                     "sound": "02Invitations/l2t6.mp3",
@@ -67,7 +67,7 @@
                     "textMarkup": "02Invitations/l2t6.text"
                 },
                 {
-                    "id": "33",
+                    "id": "7",
                     "instructions": "Accepting the invitation 2",
                     "text": "That would be very nice!",
                     "sound": "02Invitations/l2t7.mp3",
@@ -75,7 +75,7 @@
                     "textMarkup": "02Invitations/l2t7.text"
                 },
                 {
-                    "id": "34",
+                    "id": "8",
                     "instructions": "Accepting the invitation 3",
                     "text": "Thank you for inviting me!",
                     "sound": "02Invitations/l2t8.mp3",
@@ -83,7 +83,7 @@
                     "textMarkup": "02Invitations/l2t8.text"
                 },
                 {
-                    "id": "35",
+                    "id": "9",
                     "instructions": "Accepting the invitation 4",
                     "text": "I look for it!",
                     "sound": "02Invitations/l2t9.mp3",
@@ -91,7 +91,7 @@
                     "textMarkup": "02Invitations/l2t9.text"
                 },
                 {
-                    "id": "36",
+                    "id": "10",
                     "instructions": "Accepting the invitation 5",
                     "text": "Thank you! That would be a pleasure!",
                     "sound": "02Invitations/l2t10.mp3",
@@ -99,7 +99,7 @@
                     "textMarkup": "02Invitations/l2t10.text"
                 },
                 {
-                    "id": "37",
+                    "id": "11",
                     "instructions": "Accepting the invitation 6",
                     "text": "That's very kind of you! I'd love to come!",
                     "sound": "02Invitations/l2t11.mp3",
@@ -107,7 +107,7 @@
                     "textMarkup": "02Invitations/l2t11.text"
                 },
                 {
-                    "id": "38",
+                    "id": "12",
                     "instructions": "Accepting the invitation 7",
                     "text": "Thanks! That sounds great!",
                     "sound": "02Invitations/l2t12.mp3",
@@ -115,7 +115,7 @@
                     "textMarkup": "02Invitations/l2t12.text"
                 },
                 {
-                    "id": "39",
+                    "id": "13",
                     "instructions": "Accepting the invitation 8",
                     "text": "That sounds like fun!",
                     "sound": "02Invitations/l2t13.mp3",
@@ -123,7 +123,7 @@
                     "textMarkup": "02Invitations/l2t13.text"
                 },
                 {
-                    "id": "40",
+                    "id": "14",
                     "instructions": "Declining the invitation 1",
                     "text": "That's very kind of you, but I don't think I can.",
                     "sound": "02Invitations/l2t14.mp3",
@@ -131,7 +131,7 @@
                     "textMarkup": "02Invitations/l2t14.text"
                 },
                 {
-                    "id": "41",
+                    "id": "15",
                     "instructions": "Declining the invitation 2",
                     "text": "Thanks! But I don't think I can make it then.",
                     "sound": "02Invitations/l2t15.mp3",
@@ -172,7 +172,7 @@
                     "textMarkup": "02/l1t3.text"
                 },
                 {
-                    "id": "84",
+                    "id": "4",
                     "instructions": "Now a little German, why not?",
                     "text": "Guten Tag!",
                     "sound": "02/84.mp3",
@@ -180,7 +180,7 @@
                     "textMarkup": "02/84.text"
                 },
                 {
-                    "id": "85",
+                    "id": "5",
                     "instructions": "Asking how it is going",
                     "text": "Wie geht's?",
                     "sound": "02/85.mp3",
@@ -188,7 +188,7 @@
                     "textMarkup": "02/85.text"
                 },
                 {
-                    "id": "86",
+                    "id": "6",
                     "instructions": "Saying thank you",
                     "text": "Danke schoen",
                     "sound": "02/86.mp3",
