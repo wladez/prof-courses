@@ -12,7 +12,7 @@
     "releaseDate": "25.05.2018",
     "lessons": [
         {
-            "id": "2",
+            "id": "1",
             "title": "Invitations. Make-Accept-Decline",
             "description": "Remember: Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune, looking at the pitch as if you sing a song. Keep to the melody and tempo of the speech",
             "duration": 15,
@@ -20,128 +20,128 @@
             "tasks": [
                 {
                     "id": "27",
-                    "instruction": "Invitation for dinner",
+                    "instructions": "Invitation for dinner",
                     "text": "Would you like to join me for dinner?",
-                    "pathToAudio": "02Invitations/l2t1.mp3",
+                    "sound": "02Invitations/l2t1.mp3",
                     "pitch": "02Invitations/l2t1.pitch",
                     "textMarkup": "02Invitations/l2t1.text"
                 },
                 {
                     "id": "28",
-                    "instruction": "Proposal 1 (Infinitive Construction)",
+                    "instructions": "Proposal 1 (Infinitive Construction)",
                     "text": "Would you like to visit the museum?",
-                    "pathToAudio": "02Invitations/l2t2.mp3",
+                    "sound": "02Invitations/l2t2.mp3",
                     "pitch": "02Invitations/l2t2.pitch",
                     "textMarkup": "02Invitations/l2t2.text"
                 },
                 {
                     "id": "29",
-                    "instruction": "Proposal 2 (Using the Gerund)",
+                    "instructions": "Proposal 2 (Using the Gerund)",
                     "text": "Would you be intereseted in going to see an exhibition?",
-                    "pathToAudio": "02Invitations/l2t3.mp3",
+                    "sound": "02Invitations/l2t3.mp3",
                     "pitch": "02Invitations/l2t3.pitch",
                     "textMarkup": "02Invitations/l2t3.text"
                 },
                 {
                     "id": "30",
-                    "instruction": "Proposal 3 (\"A why don't...\" proposal)",
+                    "instructions": "Proposal 3 (\"A why don't...\" proposal)",
                     "text": "Why don't you join us for a cup of coffee?",
-                    "pathToAudio": "02Invitations/l2t4.mp3",
+                    "sound": "02Invitations/l2t4.mp3",
                     "pitch": "02Invitations/l2t4.pitch",
                     "textMarkup": "02Invitations/l2t4.text"
                 },
                 {
                     "id": "31",
-                    "instruction": "Proposal 4 (\"A how about...\" proposal)",
+                    "instructions": "Proposal 4 (\"A how about...\" proposal)",
                     "text": "How about going to the theatre tonight?",
-                    "pathToAudio": "02Invitations/l2t5.mp3",
+                    "sound": "02Invitations/l2t5.mp3",
                     "pitch": "02Invitations/l2t5.pitch",
                     "textMarkup": "02Invitations/l2t5.text"
                 },
                 {
                     "id": "32",
-                    "instruction": "Accepting the invitation 1",
+                    "instructions": "Accepting the invitation 1",
                     "text": "Thank you very much!",
-                    "pathToAudio": "02Invitations/l2t6.mp3",
+                    "sound": "02Invitations/l2t6.mp3",
                     "pitch": "02Invitations/l2t6.pitch",
                     "textMarkup": "02Invitations/l2t6.text"
                 },
                 {
                     "id": "33",
-                    "instruction": "Accepting the invitation 2",
+                    "instructions": "Accepting the invitation 2",
                     "text": "That would be very nice!",
-                    "pathToAudio": "02Invitations/l2t7.mp3",
+                    "sound": "02Invitations/l2t7.mp3",
                     "pitch": "02Invitations/l2t7.pitch",
                     "textMarkup": "02Invitations/l2t7.text"
                 },
                 {
                     "id": "34",
-                    "instruction": "Accepting the invitation 3",
+                    "instructions": "Accepting the invitation 3",
                     "text": "Thank you for inviting me!",
-                    "pathToAudio": "02Invitations/l2t8.mp3",
+                    "sound": "02Invitations/l2t8.mp3",
                     "pitch": "02Invitations/l2t8.pitch",
                     "textMarkup": "02Invitations/l2t8.text"
                 },
                 {
                     "id": "35",
-                    "instruction": "Accepting the invitation 4",
+                    "instructions": "Accepting the invitation 4",
                     "text": "I look for it!",
-                    "pathToAudio": "02Invitations/l2t9.mp3",
+                    "sound": "02Invitations/l2t9.mp3",
                     "pitch": "02Invitations/l2t9.pitch",
                     "textMarkup": "02Invitations/l2t9.text"
                 },
                 {
                     "id": "36",
-                    "instruction": "Accepting the invitation 5",
+                    "instructions": "Accepting the invitation 5",
                     "text": "Thank you! That would be a pleasure!",
-                    "pathToAudio": "02Invitations/l2t10.mp3",
+                    "sound": "02Invitations/l2t10.mp3",
                     "pitch": "02Invitations/l2t10.pitch",
                     "textMarkup": "02Invitations/l2t10.text"
                 },
                 {
                     "id": "37",
-                    "instruction": "Accepting the invitation 6",
+                    "instructions": "Accepting the invitation 6",
                     "text": "That's very kind of you! I'd love to come!",
-                    "pathToAudio": "02Invitations/l2t11.mp3",
+                    "sound": "02Invitations/l2t11.mp3",
                     "pitch": "02Invitations/l2t11.pitch",
                     "textMarkup": "02Invitations/l2t11.text"
                 },
                 {
                     "id": "38",
-                    "instruction": "Accepting the invitation 7",
+                    "instructions": "Accepting the invitation 7",
                     "text": "Thanks! That sounds great!",
-                    "pathToAudio": "02Invitations/l2t12.mp3",
+                    "sound": "02Invitations/l2t12.mp3",
                     "pitch": "02Invitations/l2t12.pitch",
                     "textMarkup": "02Invitations/l2t12.text"
                 },
                 {
                     "id": "39",
-                    "instruction": "Accepting the invitation 8",
+                    "instructions": "Accepting the invitation 8",
                     "text": "That sounds like fun!",
-                    "pathToAudio": "02Invitations/l2t13.mp3",
+                    "sound": "02Invitations/l2t13.mp3",
                     "pitch": "02Invitations/l2t13.pitch",
                     "textMarkup": "02Invitations/l2t13.text"
                 },
                 {
                     "id": "40",
-                    "instruction": "Declining the invitation 1",
+                    "instructions": "Declining the invitation 1",
                     "text": "That's very kind of you, but I don't think I can.",
-                    "pathToAudio": "02Invitations/l2t14.mp3",
+                    "sound": "02Invitations/l2t14.mp3",
                     "pitch": "02Invitations/l2t14.pitch",
                     "textMarkup": "02Invitations/l2t14.text"
                 },
                 {
                     "id": "41",
-                    "instruction": "Declining the invitation 2",
+                    "instructions": "Declining the invitation 2",
                     "text": "Thanks! But I don't think I can make it then.",
-                    "pathToAudio": "02Invitations/l2t15.mp3",
+                    "sound": "02Invitations/l2t15.mp3",
                     "pitch": "02Invitations/l2t15.pitch",
                     "textMarkup": "02Invitations/l2t15.text"
                 }
             ]
         },
         {
-            "id": "8",
+            "id": "2",
             "title": "Deutsch und English",
             "description": "Ein bisschen Deutsch und English? Why not? Let's start from the very beginning. Listen to the pattern, observe the pitch curve and try to repeat the phrase in tune looking at the pitch as if you sing a song.",
             "duration": 15,
@@ -149,49 +149,49 @@
             "tasks": [
                 {
                     "id": "1",
-                    "instruction": "We start speaking with greetings",
+                    "instructions": "We start speaking with greetings",
                     "text": "Hello!",
-                    "pathToAudio": "02/l1t1.mp3",
+                    "sound": "02/l1t1.mp3",
                     "pitch": "02/l1t1.pitch",
                     "textMarkup": "02/l1t1.text"
                 },
                 {
                     "id": "2",
-                    "instruction": "Fine! Let's go further",
+                    "instructions": "Fine! Let's go further",
                     "text": "How are things?",
-                    "pathToAudio": "02/l1t2.mp3",
+                    "sound": "02/l1t2.mp3",
                     "pitch": "02/l1t2.pitch",
                     "textMarkup": "02/l1t2.text"
                 },
                 {
                     "id": "3",
-                    "instruction": "Fine! One more:",
+                    "instructions": "Fine! One more:",
                     "text": "How are you?",
-                    "pathToAudio": "02/l1t3.mp3",
+                    "sound": "02/l1t3.mp3",
                     "pitch": "02/l1t3.pitch",
                     "textMarkup": "02/l1t3.text"
                 },
                 {
                     "id": "84",
-                    "instruction": "Now a little German, why not?",
+                    "instructions": "Now a little German, why not?",
                     "text": "Guten Tag!",
-                    "pathToAudio": "02/84.mp3",
+                    "sound": "02/84.mp3",
                     "pitch": "02/84.pitch",
                     "textMarkup": "02/84.text"
                 },
                 {
                     "id": "85",
-                    "instruction": "Asking how it is going",
+                    "instructions": "Asking how it is going",
                     "text": "Wie geht's?",
-                    "pathToAudio": "02/85.mp3",
+                    "sound": "02/85.mp3",
                     "pitch": "02/85.pitch",
                     "textMarkup": "02/85.text"
                 },
                 {
                     "id": "86",
-                    "instruction": "Saying thank you",
+                    "instructions": "Saying thank you",
                     "text": "Danke schoen",
-                    "pathToAudio": "02/86.mp3",
+                    "sound": "02/86.mp3",
                     "pitch": "02/86.pitch",
                     "textMarkup": "02/86.text"
                 }
