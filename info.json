@@ -45,13 +45,13 @@
       "id": "Example",
       "title": "Example",
       "description": "Meet the principle tones of English. Learn to produce them when speaking. Starting with quite short common phrases you will browse through a variety of speaking patterns to feel and train the melody of English speech",
-      "logoUrl": "https://github.com/bogach/prof-courses/raw/master/CrashCourse/logo.png",
-      "size": 626691,
+      "logoUrl": "https://github.com/wladez/prof-courses/raw/master/Example/logo.png",
+      "size": 1209974,
       "difficulty": 1,
       "category": "Example",
-      "version": "v1.2.0",
+      "version": "v1.2.1",
       "sha2Hash": "bf6dcf218fe812e2319e81caaf979f4236667e138421faa3d59fe7981607466",
-      "url": "https://github.com/bogach/prof-courses/releases/download/v1.2.0/CrashCourse.zip",
+      "url": "https://github.com/wladez/prof-courses/releases/download/v1.2.1/Example.zip",
       "authors": [
         "Natalia Bogach",
         "Vladislav Bushin"
